@@ -1,0 +1,141 @@
+/*==============================================
+    Counter One
+===============================================*/
+.counter-one {
+    position: relative;
+    display: block;
+    padding: 135px 0 0px;
+    z-index: 1;
+}
+
+.counter-one__bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 546px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+
+.counter-one__top {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 69px;
+}
+
+.counter-one__top .section-title-three {
+    margin-bottom: 0px;
+}
+
+.counter-one__top-text {
+    font-weight: 500;
+    color: var(--gizmo-white);
+}
+
+.counter-one__single {
+    position: relative;
+    display: block;
+    background-color: #1F232B;
+    box-shadow: 0px 10px 60px rgba(0, 0, 0, 0.05);
+    border-radius: 7px;
+    text-align: center;
+    padding: 40px 40px 34px;
+    margin-bottom: 30px;
+}
+
+.counter-one__single::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    border: 1px solid var(--gizmo-base);
+    border-radius: 7px;
+    transform: scaleX(0.7) rotateX(20deg);
+    opacity: 0;
+    transition: all 0.4s linear;
+}
+
+.counter-one__single:hover::before {
+    transform: scaleX(1.0) rotateX(0deg);
+    transition: all 0.4s linear;
+    opacity: 1;
+}
+
+.counter-one__icon {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 145px;
+    height: 145px;
+    background-color: rgba(99, 171, 69, .10);
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.counter-one__icon span {
+    position: relative;
+    display: inline-block;
+    font-size: 62px;
+    color: var(--gizmo-base);
+    transition: all 500ms linear;
+    transition-delay: 0.1s;
+    transform: scale(1);
+}
+
+.counter-one__single:hover .counter-one__icon span {
+    transform: scale(0.9);
+}
+
+.counter-one__count {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 28px;
+    margin-bottom: 5px;
+}
+
+.counter-one__count h3 {
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 45px;
+    color: var(--gizmo-white);
+}
+
+.counter-one__count span {
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 45px;
+    color: var(--gizmo-white);
+    font-family: var(--gizmo-font-two);
+}
+
+.counter-one__text {
+    color: var(--gizmo-white);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------------
+# End
+--------------------------------------------------------------*/

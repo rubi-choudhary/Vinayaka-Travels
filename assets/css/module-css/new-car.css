@@ -1,0 +1,199 @@
+/*==============================================
+   New Car
+===============================================*/
+.new-car {
+    position: relative;
+    display: block;
+    margin-top: -120px;
+    z-index: 99;
+}
+
+.new-car__inner {
+    position: relative;
+    display: block;
+    max-width: 1130px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.new-car__tab-box {
+    position: relative;
+    display: block;
+}
+
+.new-car__tab-box .tab-buttons {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.new-car__tab-box .tab-buttons .tab-btn {
+    position: relative;
+}
+
+.new-car__tab-box .tab-buttons .tab-btn+.tab-btn {
+    margin-left: 0;
+}
+
+.new-car__tab-box .tab-buttons .tab-btn span {
+    position: relative;
+    display: inline-block;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 400;
+    color: var(--gizmo-black);
+    background-color: var(--gizmo-white);
+    padding: 11px 30px 11px;
+    text-transform: capitalize;
+    cursor: pointer;
+    transition: all 200ms linear;
+    transition-delay: 0.1s;
+    border-radius: 2px 2px 0px 0px;
+    z-index: 1;
+}
+
+.new-car__tab-box .tab-buttons .tab-btn.active-btn span {
+    color: var(--gizmo-black);
+}
+
+.new-car__tab-box .tab-buttons .tab-btn span:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    content: "";
+    background-color: var(--gizmo-base);
+    background-position: top bottom;
+    transition-delay: .1s;
+    transition-timing-function: ease-in-out;
+    transition-duration: .5s;
+    transition-property: all;
+    transform-origin: top;
+    transform-style: preserve-3d;
+    transform: scaleY(0);
+    z-index: -1;
+}
+
+.new-car__tab-box .tab-buttons .tab-btn.active-btn span:before {
+    transform: scaleY(1.0);
+}
+
+.new-car__tab-box .tabs-content {
+    position: relative;
+    display: block;
+}
+
+.new-car__tab-box .tabs-content .tab {
+    position: relative;
+    display: none;
+    -webkit-transform: translateY(35px);
+    -ms-transform: translateY(35px);
+    transform: translateY(35px);
+    -webkit-transition: all 600ms ease;
+    -moz-transition: all 600ms ease;
+    -ms-transition: all 600ms ease;
+    -o-transition: all 600ms ease;
+    transition: all 600ms ease;
+    z-index: 10;
+}
+
+.new-car__tab-box .tabs-content .tab.active-tab {
+    display: block;
+    margin-top: 0px;
+    -webkit-transform: translateY(0px);
+    -ms-transform: translateY(0px);
+    transform: translateY(0px);
+
+}
+
+.new-car__tab-box .tabs-content__inner {
+    position: relative;
+    display: block;
+    background-color: #1F232B;
+    box-shadow: 0px 6px 12px rgba(19, 94, 172, 0.12);
+    border-radius: 0px 2px 2px 2px;
+    padding: 33px 35px 34px;
+    padding-right: 12px;
+}
+
+.new-car__list-and-btn-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.new-car__list {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 150px;
+}
+
+.new-car__list li {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.new-car__list li::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -26px;
+    bottom: 6px;
+    width: 1px;
+    background-color: #ACACAC;
+}
+
+.new-car__list li:first-child:before {
+    display: none;
+}
+
+.new-car__list li .icon {
+    position: relative;
+    display: inline-block;
+}
+
+.new-car__list li .icon span {
+    position: relative;
+    display: inline-block;
+    font-size: 30px;
+    color: var(--gizmo-white);
+}
+
+.new-car__list li .content {
+    position: relative;
+    display: block;
+}
+
+.new-car__list li .content p {
+    color: var(--gizmo-white);
+    line-height: 20px;
+}
+
+.new-car__list li .content span {
+    font-size: 14px;
+    color: #868686;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------------
+# End
+--------------------------------------------------------------*/

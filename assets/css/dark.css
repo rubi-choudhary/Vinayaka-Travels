@@ -1,0 +1,110 @@
+body,
+body.boxed-wrapper .page-wrapper,
+.main-menu__top-inner,
+.like-us__inner,
+.car-brands__single,
+.enjoy-one__right,
+.check-out-one__single,
+.registration-one__right,
+.team-one__content,
+.blog-one {
+    background-color: #141A1C;
+}
+
+.main-menu__wrapper-inner,
+.registration-one__input-box input[type="text"],
+.registration-one__input-box input[type="email"],
+.registration-one__input-box textarea {
+    background-color: #12181A;
+}
+
+.main-menu__social a {
+    border: 1px solid rgba(var(--gizmo-white-rgb), .10);
+}
+
+.main-menu .main-menu__list>li>a,
+.stricky-header .main-menu__list>li>a,
+.main-menu .main-menu__list>li.dropdown>a:after,
+.main-menu__search,
+.main-menu__call-number a,
+.main-menu__contact-list li .text p,
+.main-menu__contact-list li .text p a,
+.main-menu__top-login-reg-box a,
+.like-us__price-title,
+.section-title__title,
+.enjoy-one__title,
+.check-out-one__title a,
+.check-out-one__price h4,
+.registration-one__form-title,
+.team-one__title a,
+.team-one__number .icon span,
+.team-one__number a,
+.testimonial-one__single-two-title a,
+.blog-one__title a,
+.car-brands__title a,
+.like-us__price-ranger.price-ranger .ranger-min-max-block input[type="text"] {
+    color: var(--gizmo-white);
+}
+
+.main-menu .main-menu__list>li.current>a::after,
+.main-menu .main-menu__list>li:hover>a::after,
+.stricky-header .main-menu__list>li.current>a::after,
+.stricky-header .main-menu__list>li:hover>a::after {
+    color: var(--gizmo-base);
+}
+
+.like-us__input-box .nice-select {
+    border: 1px solid rgba(var(--gizmo-white-rgb), .10);
+}
+
+.thm-btn::after {
+    background-color: var(--gizmo-white);
+}
+
+.thm-btn:hover {
+    color: var(--gizmo-black);
+}
+
+.check-out-one__img-box::before {
+    background: linear-gradient(180deg, rgba(20, 26, 28, 0) 0%, #141A1C 100%);
+}
+
+.team-one__inner {
+    background-color: transparent;
+}
+
+.team-one__social a {
+    border: 1px solid rgba(var(--gizmo-white-rgb), .10);
+}
+
+.team-one__number {
+    background-color: rgba(var(--gizmo-base-rgb), 1);
+}
+
+.team-one__number a:hover {
+    color: var(--gizmo-white);
+}
+
+.testimonial-one__single-two-shape {
+    filter: invert(1);
+}
+
+.blog-one__title {
+    border-bottom: 1px solid rgba(var(--gizmo-white-rgb), .10);
+}
+
+.like-us__price-ranger.price-ranger .ui-widget-content {
+    background: rgba(var(--gizmo-white-rgb), .10);
+}
+
+
+
+
+
+
+
+
+
+
+
+/* The End */

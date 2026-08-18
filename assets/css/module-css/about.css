@@ -1,0 +1,473 @@
+/*==============================================
+    About One
+===============================================*/
+.about-one {
+    position: relative;
+    display: block;
+    padding: 140px 0 140px;
+    z-index: 1;
+}
+
+.about-one__left {
+    position: relative;
+    display: block;
+    margin-left: 46px;
+    margin-right: 23px;
+}
+
+.about-one__img-box {
+    position: relative;
+    display: block;
+}
+
+.about-one__img {
+    position: relative;
+    display: block;
+}
+
+.about-one__img img {
+    width: 100%;
+    border-top-right-radius: 290px;
+    border-top-left-radius: 290px;
+}
+
+.about-one__experience-box {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    max-width: 323px;
+    width: 100%;
+    background-color: var(--gizmo-base);
+    padding: 26px 45px 29px;
+}
+
+.about-one__count-and-text {
+    position: relative;
+    display: block;
+}
+
+.about-one__count-shape-1 {
+    position: absolute;
+    bottom: -14px;
+    left: 0;
+}
+
+.about-one__count-shape-1 img {
+    width: auto;
+}
+
+.about-one__count {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.about-one__count h3 {
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 65px;
+    font-family: var(--gizmo-font);
+    letter-spacing: -0.03em;
+    color: #000000;
+}
+
+.about-one__count span {
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 65px;
+    font-family: var(--gizmo-font);
+    letter-spacing: -0.03em;
+    color: #000000;
+    position: relative;
+    top: -6px;
+}
+
+.about-one__count-text {
+    font-weight: 600;
+    color: #000000;
+    margin-top: 5px;
+}
+
+.about-one__ratting-and-text {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-top: 30px;
+}
+
+.about-one__ratting {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.about-one__ratting span {
+    position: relative;
+    display: inline-block;
+    font-size: 15px;
+    color: #000000;
+}
+
+.about-one__ratting-text {
+    font-weight: 600;
+    letter-spacing: -0.03em;
+    color: #000000;
+}
+
+.about-one__rate-box {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #000000;
+    width: 70px;
+    height: 43px;
+    padding: 14px 10px 9px;
+}
+
+.about-one__rate-box::before {
+    content: "";
+    position: absolute;
+    top: 5px;
+    left: -5px;
+    right: 5px;
+    bottom: -5px;
+    border: 1px solid #000000;
+}
+
+.about-one__rate-box p {
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    gap: 3px;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 22px;
+    color: var(--gizmo-base);
+    letter-spacing: -0.03em;
+}
+
+.about-one__rate-box p span {
+    font-size: 13px;
+    position: relative;
+    margin-top: -4px;
+}
+
+.about-one__right {
+    position: relative;
+    margin-left: 50px;
+    margin-right: 45px;
+    margin-top: 70px;
+}
+
+.about-one__right .section-title-two {
+    margin-bottom: 33px;
+}
+
+.about-one__progress-wrap-inner {
+    position: relative;
+    display: block;
+}
+
+.about-one__progress-wrap {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: var(--gizmo-white);
+    box-shadow: 0px 10px 60px rgba(28, 35, 31, 0.07);
+    border-radius: 12px;
+    padding: 40px 45px 10px;
+    margin-top: 74px;
+    z-index: 1;
+}
+
+.about-one__progress-shape-1 {
+    position: absolute;
+    bottom: -138px;
+    right: 0;
+}
+
+.about-one__progress-shape-1 img {
+    width: auto;
+}
+
+.about-one__progress-single {
+    display: block;
+    position: relative;
+    text-align: center;
+    margin-bottom: 23px;
+}
+
+.about-one__progress-single::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -62px;
+    bottom: 7px;
+    width: 1px;
+    background-color: #D9D9D9;
+}
+
+.about-one__progress-single-1::before {
+    display: none;
+}
+
+.about-one__progress-box {
+    position: relative;
+    display: inline-block;
+}
+
+.about-one__progress-box canvas {
+    transform: rotate(190deg);
+}
+
+.about-one__progress-box span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    display: block;
+    transform: translateY(-50%) translateX(-50%);
+    font-size: 27px;
+    font-weight: 500;
+    line-height: 1;
+    color: var(--gizmo-black);
+}
+
+.about-one__progress-title {
+    margin: 0;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 500;
+    color: var(--gizmo-black);
+    margin-top: 11px;
+}
+
+
+/*--------------------------------------------------------------
+# About Two
+--------------------------------------------------------------*/
+.about-two {
+    position: relative;
+    display: block;
+    padding: 140px 0 140px;
+    z-index: 1;
+}
+
+.about-two__left {
+    position: relative;
+    display: block;
+}
+
+.about-two__img-box {
+    position: relative;
+    display: block;
+    margin-right: 23px;
+}
+
+.about-two__img-1 {
+    position: relative;
+    display: block;
+}
+
+.about-two__img-1 img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.about-two__img-2 {
+    position: relative;
+    display: block;
+    margin-left: 57px;
+    margin-top: 45px;
+}
+
+.about-two__img-2 img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.about-two__satisfied-and-img {
+    position: relative;
+    display: block;
+    margin-left: -12px;
+    margin-right: 11px;
+}
+
+.about-two__satisfied-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+    background-color: var(--gizmo-base);
+    border-radius: 5px;
+    max-width: 270px;
+    width: 100%;
+    gap: 20px;
+    padding: 23px 27px 26px;
+    margin-bottom: 20px;
+}
+
+.about-two__satisfied-box .icon {
+    position: relative;
+    display: inline-block;
+}
+
+.about-two__satisfied-box .icon span {
+    position: relative;
+    display: inline-block;
+    font-size: 45px;
+    color: var(--gizmo-black);
+}
+
+.about-two__count-box {
+    position: relative;
+    display: block;
+}
+
+.about-two__count {
+    position: relative;
+    display: block;
+}
+
+.about-two__count h3 {
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0.2em;
+}
+
+.about-two__count-text {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    font-family: var(--gizmo-font-two);
+    color: var(--gizmo-black);
+    margin-top: 2px;
+}
+
+.about-two__img-3 {
+    position: relative;
+    display: block;
+}
+
+.about-two__img-3 img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.about-two__right {
+    position: relative;
+    display: block;
+}
+
+.about-two__title {
+    font-size: 45px;
+    font-weight: 500;
+    line-height: 68px;
+    color: var(--gizmo-white);
+}
+
+.about-two__text {
+    font-size: 18px;
+    line-height: 26px;
+    color: var(--gizmo-white);
+    margin-top: 17px;
+    margin-bottom: 36px;
+}
+
+.about-two__points {
+    position: relative;
+    display: block;
+}
+
+.about-two__points li {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.about-two__points li+li {
+    margin-top: 10px;
+}
+
+.about-two__points li .icon {
+    position: relative;
+    display: inline-block;
+}
+
+.about-two__points li .icon span {
+    position: relative;
+    display: inline-block;
+    font-size: 14px;
+    color: var(--gizmo-base);
+}
+
+.about-two__points li p {
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 500;
+    color: var(--gizmo-white);
+}
+
+.about-two__btn-and-sign {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 35px;
+    margin-top: 53px;
+}
+
+.about-two__btn-box {
+    position: relative;
+    display: block;
+}
+
+.about-two__sign {
+    position: relative;
+    display: block;
+}
+
+.about-two__sign img {
+    width: auto;
+}
+
+/*--------------------------------------------------------------
+# About Page
+--------------------------------------------------------------*/
+.about-page {
+    position: relative;
+    display: block;
+}
+
+.about-page .about-one__count h3,
+.about-page .about-one__count span,
+.about-page .about-one__ratting span,
+.about-page .about-one__count-text,
+.about-page .about-one__ratting-text {
+    color: var(--gizmo-white);
+}
+
+.about-page .about-one__count-shape-1 img {
+    filter: invert(1);
+}
+
+.about-page .about-one__rate-box {
+    background-color: var(--gizmo-white);
+}
+
+.about-page .about-one__rate-box::before {
+    border: 1px solid var(--gizmo-white);
+}
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------------
+# End
+--------------------------------------------------------------*/

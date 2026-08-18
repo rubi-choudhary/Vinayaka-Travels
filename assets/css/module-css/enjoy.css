@@ -1,0 +1,159 @@
+/*==============================================
+    Enjoy One
+===============================================*/
+.enjoy-one {
+    position: relative;
+    display: block;
+}
+
+.enjoy-one__left {
+    position: relative;
+    display: block;
+    margin-right: 0;
+    max-width: 100%;
+}
+
+.enjoy-one__img {
+    position: relative;
+    display: block;
+}
+
+.enjoy-one__img::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, .45);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.enjoy-one__img img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.enjoy-one__right {
+    position: relative;
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    background-color: var(--gizmo-white);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    margin-top: 24px;
+    max-width: 100%;
+    width: 100%;
+    left: auto;
+    z-index: 2;
+}
+
+.enjoy-one__title-box {
+    position: relative;
+    display: block;
+    padding: 36px 24px 32px;
+}
+
+.enjoy-one__title {
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 1.3;
+    overflow-wrap: break-word;
+}
+
+.enjoy-one__text {
+    margin-top: 21px;
+    margin-bottom: 37px;
+}
+
+.enjoy-one__btn-box {
+    position: relative;
+    display: block;
+}
+
+/* Side-by-side overlap only while Bootstrap lg/xl columns are active */
+@media (min-width: 992px) {
+    .enjoy-one__right {
+        margin-left: -100px;
+        margin-top: 40px;
+        max-width: none;
+        width: calc(100% + 100px);
+    }
+
+    .enjoy-one__title-box {
+        padding: 40px 28px 36px;
+    }
+
+    .enjoy-one__title {
+        font-size: 28px;
+        line-height: 1.3;
+    }
+}
+
+@media (min-width: 1200px) {
+    .enjoy-one__left {
+        margin-right: 0;
+    }
+
+    .enjoy-one__right {
+        margin-left: -160px;
+        width: calc(100% + 160px);
+        margin-top: 40px;
+    }
+
+    .enjoy-one__title-box {
+        padding: 48px 40px 44px;
+    }
+
+    .enjoy-one__title {
+        font-size: 36px;
+        line-height: 1.25;
+    }
+}
+
+@media (min-width: 1400px) {
+    .enjoy-one__right {
+        margin-left: -200px;
+        width: calc(100% + 200px);
+        margin-top: 55px;
+    }
+
+    .enjoy-one__title-box {
+        padding: 64px 48px 56px;
+    }
+
+    .enjoy-one__title {
+        font-size: 42px;
+        line-height: 1.25;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------------
+# End
+--------------------------------------------------------------*/
