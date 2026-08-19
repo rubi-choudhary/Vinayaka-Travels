@@ -1261,14 +1261,14 @@ Yes, we provide one-way outstation cabs so you only pay for the trip you take, w
             <div class="vt-faq-item">
 
                 <button class="vt-faq-question" type="button">
-                    <span>Can I book a round-trip outstation cab with the same driver?</span>
+                    <span>Can you coordinate shuttle services between multiple venues?
+</span>
                     <span class="vt-faq-icon">+</span>
                 </button>
 
                 <div class="vt-faq-answer">
                     <p>
-                        Yes, for round trips we assign the same vehicle and driver throughout your journey for consistency and comfort.
-
+                       Absolutely. We run continuous shuttle services between hotels, venues, and parking areas for the duration of your event.
                     </p>
                 </div>
 
@@ -1279,15 +1279,15 @@ Yes, we provide one-way outstation cabs so you only pay for the trip you take, w
             <div class="vt-faq-item">
 
                 <button class="vt-faq-question" type="button">
-                    <span>Which destinations do you cover for outstation travel?
+                    <span>Do you handle transportation for weddings and large gatherings?
+
 </span>
                     <span class="vt-faq-icon">+</span>
                 </button>
 
                 <div class="vt-faq-answer">
                     <p>
-                      We cover major destinations across Karnataka, Tamil Nadu, Andhra Pradesh, and Kerala, along with custom routes based on your itinerary.
-
+                      Yes, we provide mini-buses and tempo travellers for wedding parties and large guest lists, along with sedans for smaller family groups.
                     </p>
                 </div>
 
@@ -1298,14 +1298,15 @@ Yes, we provide one-way outstation cabs so you only pay for the trip you take, w
             <div class="vt-faq-item">
 
                 <button class="vt-faq-question" type="button">
-                    <span> Are your outstation fares fixed or metered?
+                    <span> Is there a dedicated coordinator for event transportation?
+
     </span>
                     <span class="vt-faq-icon">+</span>
                 </button>
 
                 <div class="vt-faq-answer">
                     <p>
-                       Our outstation fares are fixed and shared upfront at the time of booking, with no hidden toll, parking, or surge charges.
+                       Yes, every event is assigned a dedicated coordinator who manages vehicle scheduling, guest lists, and any last-minute changes on the day.
 
                     </p>
                 </div>
@@ -1317,13 +1318,14 @@ Yes, we provide one-way outstation cabs so you only pay for the trip you take, w
             <div class="vt-faq-item">
 
                 <button class="vt-faq-question" type="button">
-                    <span>Can I book outstation cabs for a group or family trip?</span>
+                    <span>CCan you manage multi-day events?
+</span>
                     <span class="vt-faq-icon">+</span>
                 </button>
 
                 <div class="vt-faq-answer">
                     <p>
-                        Absolutely. We offer SUVs and tempo travellers for group and family travel, along with sedans for smaller trips.
+                       Yes, we design custom transport packages for events spanning multiple days, including early setup and late-night wrap-up schedules.
 
                     </p>
                 </div>
@@ -1335,14 +1337,15 @@ Yes, we provide one-way outstation cabs so you only pay for the trip you take, w
             <div class="vt-faq-item">
 
                 <button class="vt-faq-question" type="button">
-                    <span>How far in advance should I book an outstation cab?
+                    <span>How far in advance should I book event transportation?
+
 </span>
                     <span class="vt-faq-icon">+</span>
                 </button>
 
                 <div class="vt-faq-answer">
                     <p>
-                     We recommend booking at least a day in advance for guaranteed availability, though on-demand bookings are accommodated based on fleet availability.
+                     We recommend booking as early as possible for large events to guarantee fleet availability, though we do accommodate urgent requests based on availability.
 
                     </p>
                 </div>
