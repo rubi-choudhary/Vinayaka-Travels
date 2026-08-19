@@ -28,28 +28,29 @@
                     </span>
 
                     <h1 class="vt-service-detail-title">
-                        Airport Transfers & Airport Taxi Services
+                        Outstation Cabs & Long-Distance Taxi Services
                     </h1>
 
                     <p class="vt-service-detail-description">
-                        Vinayaka Travels offers seamless, punctual, and hassle-free airport transfer services in Bangalore — from home or office to Kempegowda International Airport and back. Track your flight, plan the drop, and travel stress-free with our professional chauffeurs and well-maintained fleet.
+                        Vinayaka Travels offers safe, comfortable, and reliable outstation cab services from Bangalore to destinations across South India. Whether it's a business trip, family vacation, or one-way drop, travel with experienced drivers and a well-maintained fleet built for long-distance journeys.
+    
                     </p>
 
                     <div class="vt-service-detail-points">
 
                         <div class="vt-service-detail-point">
                             <span>✓</span>
-                            <p>On-Time Airport Pickup & Drop</p>
+                            <p>Experienced Long-Distance Drivers</p>
                         </div>
 
                         <div class="vt-service-detail-point">
                             <span>✓</span>
-                            <p>  Flight Tracking Enabled</p>
+                            <p>  One-Way & Round-Trip Options</p>
                         </div>
 
                         <div class="vt-service-detail-point">
                             <span>✓</span>
-                            <p>  Meet & Greet Service</p>
+                            <p>  Well-Maintained Fleet</p>
                         </div>
 
                     </div>
@@ -216,17 +217,18 @@
 
                    
                     <h2 class="vt-service-overview-title">
-                        Airport Transfer Services in Bangalore
+                        Outstation Cab Services in Bangalore
 
                     </h2>
 
                     <p class="vt-service-overview-text">
-                        Catching a flight or picking up a guest shouldn't be stressful. Vinayaka Travels provides reliable airport transfer services in Bangalore designed around flight schedules, traffic conditions, and your exact pickup location — so you reach the airport, or your destination, right on time.
+                       Long journeys demand a reliable travel partner. Vinayaka Travels provides dependable outstation cab services from Bangalore to popular destinations across Karnataka, Tamil Nadu, Andhra Pradesh, and Kerala — covering business trips, family vacations, weekend getaways, and one-way drops.
+
                     </p>
 
                     <p class="vt-service-overview-text">
-                       Our airport taxi service in Bangalore is trusted by corporates, frequent flyers, and families alike for its punctuality, professional drivers, and clean, comfortable vehicles.
-
+                       With 24+ years of transportation experience, our outstation taxi service in Bangalore is trusted for punctual pickups, experienced drivers, and comfortable, well-maintained vehicles suited for long-distance travel.
+    
                         <br />
 
                         
@@ -237,17 +239,17 @@
 
                         <div class="vt-service-overview-list-item">
                             <span>✓</span>
-                            <p>  Airport pickup & drop from anywhere in Bangalore</p>
+                            <p> Outstation cabs for one-way and round-trip journeys</p>
                         </div>
 
                         <div class="vt-service-overview-list-item">
                             <span>✓</span>
-                            <p>  Real-time flight tracking to adjust for early or delayed arrivals</p>
+                            <p>    Experienced drivers familiar with highway and interstate routes</p>
                         </div>
 
                         <div class="vt-service-overview-list-item">
                             <span>✓</span>
-                            <p>Meet & greet service with a nameplate at arrivals</p>
+                            <p>  Sedan, SUV, and tempo traveller options for solo trips or groups</p>
                         </div>
                         
                     </div>
@@ -295,7 +297,7 @@
            
 
             <h2 class="vt-service-why-title">
-                Why Choose Vinayaka Travels for Airport Transfers in Bangalore
+                Why Choose Vinayaka Travels for Outstation Cabs in Bangalore
 
             </h2>
 
@@ -322,10 +324,10 @@
             
         </div>
 
-        <h3>Punctuality Guaranteed</h3>
+        <h3>Experienced Long-Distance Drivers</h3>
 
         <p>
-            Flight-tracked scheduling ensures your cab is ready even if your flight is early or delayed.
+           Skilled chauffeurs familiar with highway routes, rest stops, and interstate travel norms.
         </p>
 
     </div>
@@ -342,10 +344,10 @@
             
         </div>
 
-        <h3>Professional Chauffeurs</h3>
+        <h3>Well-Maintained Fleet</h3>
 
         <p>
-            Well-groomed, courteous, and trained drivers familiar with all Bangalore airport routes.
+            Regularly serviced sedans, SUVs, and tempo travellers built for comfort on long journeys.
         </p>
 
     </div>
@@ -362,10 +364,10 @@
            
         </div>
 
-        <h3>Modern Fleet</h3>
+        <h3>Flexible Trip Options</h3>
 
         <p>
-           Clean, air-conditioned sedans and SUVs equipped with GPS and safety features.
+           One-way drops, round trips, and multi-day outstation packages to suit your itinerary.
         </p>
 
     </div>
@@ -382,10 +384,10 @@
            
         </div>
 
-        <h3>Meet & Greet</h3>
+        <h3>Transparent Pricing</h3>
 
         <p>
-           Drivers wait at arrivals with a nameplate, assisting with luggage and directions.
+           Upfront fares with no surge pricing or hidden toll/parking surprises.
         </p>
 
     </div>
@@ -405,7 +407,7 @@
         <h3>24/7 Availability</h3>
 
         <p>
-            Round-the-clock airport pickup and drop for early morning or late-night flights.
+            Book outstation cabs for early morning departures or late-night journeys, any day of the week.
         </p>
 
     </div>
@@ -422,10 +424,10 @@
                 
         </div>
 
-        <h3>Transparent Pricing</h3>
+        <h3>24+ Years of Trust</h3>
 
         <p>
-           Fixed, upfront fares with no hidden charges or surge pricing.
+           Decades of experience serving corporates, families, and frequent travelers across South India.
         </p>
 
     </div>
@@ -449,11 +451,12 @@
 
                 
                     <h2>
-                        Stress-Free Travel, Every Trip
+                        Every Journey, Handled With Care
                     </h2>
 
                     <p>
-                        Vinayaka Travels' airport transfer service is built for reliability, whether it's a solo business trip or transportation for an entire visiting team. Our services include: 
+                        Vinayaka Travels' outstation cab service is designed for travelers who value comfort, safety, and reliability on long-distance trips. Our services include:
+
                     </p>
 
                    
@@ -466,9 +469,9 @@
                             </div>
 
                             <div>
-                                <h4>Airport Pickup</h4>
+                                <h4>One-Way Outstation Drops</h4>
                                 <p>
-                                    Timely pickup from Kempegowda International Airport to any location in Bangalore
+                                    Travel to your destination without paying for a return trip
                                 </p>
                             </div>
                         </div>
@@ -479,9 +482,10 @@
                             </div>
 
                             <div>
-                                <h4>Airport Drop</h4>
+                                <h4> Round-Trip Outstation Cabs</h4>
                                 <p>
-                                   Scheduled drop-off with buffer time built in for check-in and security
+                                   Comfortable travel with the same vehicle and driver throughout
+
                                 </p>
                             </div>
                         </div>
@@ -546,11 +550,13 @@
       <div class="vt-premium-features-panel">
 
           <span class="vt-premium-panel-label">
-              Why Travelers Partner With Us:
+              Why Travelers Partner With Us
+
           </span>
 
           <h3>
-              A Travel Partner You Can Rely On, Every Flight
+              A Travel Partner You Can Rely On, Every Mile
+
           </h3>
 
           <p>
@@ -582,11 +588,13 @@
             <div class="vt-premium-features-left">
 
                 <h2 class="vt-premium-features-title">
-                  A Travel Partner You Can Rely On, Every Flight
+                  A Travel Partner You Can Rely On, Every Mile
+
                 </h2>
 
                 <p class="vt-premium-features-intro">
-                   From early morning departures to late-night arrivals, Vinayaka Travels ensures your airport journey in Bangalore is smooth, safe, and on schedule.   
+                  Whether it's a business trip to a neighboring city or a family vacation across state lines, Vinayaka Travels ensures your outstation journey from Bangalore is safe, comfortable, and on schedule.
+
                 </p>
 
                 <!-- FEATURE LIST -->
@@ -596,9 +604,10 @@
                     <div class="vt-premium-feature-item">
                         <div class="vt-premium-feature-point">01</div>
                         <div class="vt-premium-feature-info">
-                            <h4> Reliable Scheduling </h4>
+                            <h4> Trusted Experience </h4>
                             <p>
-                                Flight tracking and buffer time built into every booking
+                                24+ years of managing long-distance travel across South India
+
                             </p>
                         </div>
                     </div>
@@ -609,7 +618,7 @@
                         <div class="vt-premium-feature-info">
                             <h4> Flexible Service Solutions</h4>
                             <p>
-                                 One-time rides, recurring bookings, or corporate contracts
+                                 One-way, round-trip, or multi-day outstation packages  
                             </p>
                         </div>
                     </div>
@@ -620,7 +629,7 @@
                         <div class="vt-premium-feature-info">
                             <h4>Comfort & Safety </h4>
                             <p>
-                                GPS-enabled, well-maintained vehicles for a relaxed ride
+                                Well-maintained vehicles and experienced drivers for a relaxed journey
 
                             </p>
                         </div>
@@ -821,18 +830,18 @@
                         </div>
 
                         <p class="vt-testimonial-review">
-                            On-time pickup even with a delayed flight — the driver tracked it and adjusted automatically.
+                            Booked a one-way cab to Mysore and the driver was punctual and drove safely throughout the trip.
                         </p>
 
                         <div class="vt-testimonial-client">
 
                             <div class="vt-testimonial-avatar">
-                                FF
+                                WT
                             </div>
 
                             <div class="vt-testimonial-client-info">
-                                <h4>Frequent Flyer</h4>
-                                <span>Corporate Client</span>
+                                <h4>Weekend Traveler</h4>
+                                <span></span>
                             </div>
 
                         </div>
@@ -864,17 +873,17 @@
                         </div>
 
                         <p class="vt-testimonial-review">
-                            Clean car, polite driver, and a smooth ride to the airport at 4 AM.
+                            Used their outstation service for a family trip to Coorg. Comfortable SUV and a very courteous driver.
                         </p>
 
                         <div class="vt-testimonial-client">
 
                             <div class="vt-testimonial-avatar">
-                                BT
+                                FT
                             </div>
 
                             <div class="vt-testimonial-client-info">
-                                <h4>Business Traveler</h4>
+                                <h4> Family Traveler</h4>
                                 <span></span>
                             </div>
 
@@ -907,18 +916,18 @@
                         </div>
 
                         <p class="vt-testimonial-review">
-                            Reliable airport drop service that we use for all our visiting clients.
+                            Reliable for our client visits outside Bangalore — professional drivers and always on time.
                         </p>
 
                         <div class="vt-testimonial-client">
 
                             <div class="vt-testimonial-avatar">
-                                AM
+                                BDM
                             </div>
 
                             <div class="vt-testimonial-client-info">
-                                <h4>Admin Manager</h4>
-                                <span>IT Company</span>
+                                <h4>Business Development Manager</h4>
+                                <span> IT Company</span>
                             </div>
 
                         </div>
@@ -950,18 +959,18 @@
                         </div>
 
                         <p class="vt-testimonial-review">
-                            Booked a last-minute airport pickup for a client and the driver was there waiting with a nameplate, right on time.
+                            Round-trip booking to Ooty was smooth from start to finish. Same driver and vehicle throughout, exactly as promised.
                         </p>
 
                         <div class="vt-testimonial-client">
 
                             <div class="vt-testimonial-avatar">
-                                EA
+                                VT
                             </div>
 
                             <div class="vt-testimonial-client-info">
-                                <h4>Executive Assistant</h4>
-                                <span> Corporate Office</span>
+                                <h4>Vacation Traveler</h4>
+                                <span></span>
                             </div>
 
                         </div>
@@ -993,7 +1002,7 @@
                         </div>
 
                         <p class="vt-testimonial-review">
-                            We use Vinayaka Travels for all our team's business travel. Fixed pricing and zero surprises — exactly what we need.
+                            We've used Vinayaka Travels for multiple corporate outstation trips. Consistent quality every single time.
                         </p>
 
                         <div class="vt-testimonial-client">
@@ -1003,8 +1012,8 @@
                             </div>
 
                             <div class="vt-testimonial-client-info">
-                                <h4>Travel Desk Manager</h4>
-                                <span> IT Company</span>
+                                <h4> Travel Desk Coordinator</h4>
+                                <span>  Corporate Office</span>
                             </div>
 
                         </div>
@@ -1205,7 +1214,7 @@
 
          
             <h2>
-                 Airport Transfers in Bangalore
+                 Outstation Cabs in Bangalore
 
             </h2>
 
@@ -1225,13 +1234,13 @@
             <div class="vt-faq-item active">
 
                 <button class="vt-faq-question" type="button">
-                    <span>Do you track flight status for pickups?</span>
+                    <span>Do you offer one-way outstation drops?</span>
                     <span class="vt-faq-icon">+</span>
                 </button>
 
                 <div class="vt-faq-answer">
                     <p>
-                       Yes. We monitor your flight in real time and adjust the pickup schedule automatically for early arrivals or delays, so you're never kept waiting.
+Yes, we provide one-way outstation cabs so you only pay for the trip you take, without any return-fare charges.
                     </p>
                 </div>
 
@@ -1242,13 +1251,14 @@
             <div class="vt-faq-item">
 
                 <button class="vt-faq-question" type="button">
-                    <span>How early should I book my airport transfer?</span>
+                    <span>Can I book a round-trip outstation cab with the same driver?</span>
                     <span class="vt-faq-icon">+</span>
                 </button>
 
                 <div class="vt-faq-answer">
                     <p>
-                        We recommend booking at least a few hours in advance for guaranteed availability, though we also accommodate on-demand and short-notice bookings based on fleet availability.
+                        Yes, for round trips we assign the same vehicle and driver throughout your journey for consistency and comfort.
+
                     </p>
                 </div>
 
@@ -1259,13 +1269,14 @@
             <div class="vt-faq-item">
 
                 <button class="vt-faq-question" type="button">
-                    <span>Do you provide meet & greet service at arrivals?</span>
+                    <span>Which destinations do you cover for outstation travel?
+</span>
                     <span class="vt-faq-icon">+</span>
                 </button>
 
                 <div class="vt-faq-answer">
                     <p>
-                      Yes. Our driver waits at the arrivals area with a nameplate and assists with luggage, so you can find your ride easily.
+                      We cover major destinations across Karnataka, Tamil Nadu, Andhra Pradesh, and Kerala, along with custom routes based on your itinerary.
 
                     </p>
                 </div>
@@ -1277,13 +1288,15 @@
             <div class="vt-faq-item">
 
                 <button class="vt-faq-question" type="button">
-                    <span> Can I book airport transfers for a group or corporate team?</span>
+                    <span> Are your outstation fares fixed or metered?
+    </span>
                     <span class="vt-faq-icon">+</span>
                 </button>
 
                 <div class="vt-faq-answer">
                     <p>
-                       Absolutely. We offer SUVs and tempo travellers for group transfers, along with corporate account billing for businesses with frequent travel needs.Absolutely. We offer SUVs and tempo travellers for group transfers, along with corporate account billing for businesses with frequent travel needs.
+                       Our outstation fares are fixed and shared upfront at the time of booking, with no hidden toll, parking, or surge charges.
+
                     </p>
                 </div>
 
@@ -1294,13 +1307,14 @@
             <div class="vt-faq-item">
 
                 <button class="vt-faq-question" type="button">
-                    <span>Are your fares fixed or metered?</span>
+                    <span>Can I book outstation cabs for a group or family trip?</span>
                     <span class="vt-faq-icon">+</span>
                 </button>
 
                 <div class="vt-faq-answer">
                     <p>
-                        Our airport transfer fares are fixed and communicated upfront at the time of booking, with no hidden charges or surge pricing.
+                        Absolutely. We offer SUVs and tempo travellers for group and family travel, along with sedans for smaller trips.
+
                     </p>
                 </div>
 
@@ -1311,13 +1325,14 @@
             <div class="vt-faq-item">
 
                 <button class="vt-faq-question" type="button">
-                    <span>Do you operate 24/7 for early morning or late-night flights?</span>
+                    <span>How far in advance should I book an outstation cab?
+</span>
                     <span class="vt-faq-icon">+</span>
                 </button>
 
                 <div class="vt-faq-answer">
                     <p>
-                      Yes, our airport transfer service in Bangalore operates round the clock to accommodate all flight timings.
+                     We recommend booking at least a day in advance for guaranteed availability, though on-demand bookings are accommodated based on fleet availability.
 
                     </p>
                 </div>
@@ -1402,4 +1417,5 @@ document.addEventListener("DOMContentLoaded", function () {
 });
     </script>
 </asp:Content>
+
 
