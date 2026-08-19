@@ -28,28 +28,33 @@
                     </span>
 
                     <h1 class="vt-service-detail-title">
-                        Airport Transfers & Airport Taxi Services
+                         Event Transportation Services
+
                     </h1>
 
                     <p class="vt-service-detail-description">
-                        Vinayaka Travels offers seamless, punctual, and hassle-free airport transfer services in Bangalore — from home or office to Kempegowda International Airport and back. Track your flight, plan the drop, and travel stress-free with our professional chauffeurs and well-maintained fleet.
+                        Vinayaka Travels provides organized, on-time event transportation services in Bangalore for corporate events, conferences, weddings, and large gatherings. From guest pickups to shuttle coordination, we manage every moving part so your event runs smoothly, start to finish.
+
                     </p>
 
                     <div class="vt-service-detail-points">
 
                         <div class="vt-service-detail-point">
                             <span>✓</span>
-                            <p>On-Time Airport Pickup & Drop</p>
+                            <p>Dedicated Event Coordination
+</p>
                         </div>
 
                         <div class="vt-service-detail-point">
                             <span>✓</span>
-                            <p>  Flight Tracking Enabled</p>
+                            <p> Shuttle & Group Transport
+</p>
                         </div>
 
                         <div class="vt-service-detail-point">
                             <span>✓</span>
-                            <p>  Meet & Greet Service</p>
+                            <p>  On-Time, Every Time
+</p>
                         </div>
 
                     </div>
@@ -216,16 +221,17 @@
 
                    
                     <h2 class="vt-service-overview-title">
-                        Airport Transfer Services in Bangalore
+                        Event Transportation Services in Bangalore
 
                     </h2>
 
                     <p class="vt-service-overview-text">
-                        Catching a flight or picking up a guest shouldn't be stressful. Vinayaka Travels provides reliable airport transfer services in Bangalore designed around flight schedules, traffic conditions, and your exact pickup location — so you reach the airport, or your destination, right on time.
+                      Large events demand precise, coordinated transportation. Vinayaka Travels manages end-to-end event transportation in Bangalore — covering guest pickups, shuttle services, VIP transfers, and multi-vehicle coordination for corporate events, conferences, weddings, and exhibitions.
+
                     </p>
 
                     <p class="vt-service-overview-text">
-                       Our airport taxi service in Bangalore is trusted by corporates, frequent flyers, and families alike for its punctuality, professional drivers, and clean, comfortable vehicles.
+                      With 24+ years of transportation experience, our event transport service in Bangalore is trusted by event planners and corporates for punctual scheduling, professional drivers, and a fleet that scales to any guest list.
 
                         <br />
 
@@ -237,17 +243,20 @@
 
                         <div class="vt-service-overview-list-item">
                             <span>✓</span>
-                            <p>  Airport pickup & drop from anywhere in Bangalore</p>
+                            <p>   Guest pickup and drop coordination for events of any size
+</p>
                         </div>
 
                         <div class="vt-service-overview-list-item">
                             <span>✓</span>
-                            <p>  Real-time flight tracking to adjust for early or delayed arrivals</p>
+                            <p>  Shuttle services between venues, hotels, and airports
+    </p>
                         </div>
 
                         <div class="vt-service-overview-list-item">
                             <span>✓</span>
-                            <p>Meet & greet service with a nameplate at arrivals</p>
+                            <p>   Sedan, SUV, mini-bus, and tempo traveller options
+</p>
                         </div>
                         
                     </div>
@@ -295,8 +304,7 @@
            
 
             <h2 class="vt-service-why-title">
-                Why Choose Vinayaka Travels for Airport Transfers in Bangalore
-
+               Why Choose Vinayaka Travels for Event Transportation in Bangalore
             </h2>
 
            <%-- <p class="vt-service-why-description">
@@ -322,10 +330,10 @@
             
         </div>
 
-        <h3>Punctuality Guaranteed</h3>
+        <h3>Dedicated Event Coordination    </h3>
 
         <p>
-            Flight-tracked scheduling ensures your cab is ready even if your flight is early or delayed.
+           A single point of contact manages vehicle scheduling, guest lists, and last-minute changes.
         </p>
 
     </div>
@@ -342,10 +350,10 @@
             
         </div>
 
-        <h3>Professional Chauffeurs</h3>
+        <h3>Well-Maintained Fleet</h3>
 
         <p>
-            Well-groomed, courteous, and trained drivers familiar with all Bangalore airport routes.
+            Sedans, SUVs, mini-buses, and tempo travellers ready for events of any scale.
         </p>
 
     </div>
@@ -362,10 +370,10 @@
            
         </div>
 
-        <h3>Modern Fleet</h3>
+        <h3>Flexible Group Transport</h3>
 
         <p>
-           Clean, air-conditioned sedans and SUVs equipped with GPS and safety features.
+           Shuttle routes and multi-vehicle coordination for large guest counts.
         </p>
 
     </div>
@@ -382,10 +390,10 @@
            
         </div>
 
-        <h3>Meet & Greet</h3>
+        <h3>Transparent Pricing</h3>
 
         <p>
-           Drivers wait at arrivals with a nameplate, assisting with luggage and directions.
+           Upfront event packages with no hidden charges or last-minute surprises.
         </p>
 
     </div>
@@ -405,7 +413,7 @@
         <h3>24/7 Availability</h3>
 
         <p>
-            Round-the-clock airport pickup and drop for early morning or late-night flights.
+            Support for early setup schedules, late-night wrap-ups, and multi-day events.
         </p>
 
     </div>
@@ -422,10 +430,10 @@
                 
         </div>
 
-        <h3>Transparent Pricing</h3>
+        <h3>24+ Years of Trust</h3>
 
         <p>
-           Fixed, upfront fares with no hidden charges or surge pricing.
+           Decades of experience managing transportation for corporates, planners, and large gatherings.
         </p>
 
     </div>
@@ -449,11 +457,12 @@
 
                 
                     <h2>
-                        Stress-Free Travel, Every Trip
+                        Every Event, Moved With Precision
                     </h2>
 
                     <p>
-                        Vinayaka Travels' airport transfer service is built for reliability, whether it's a solo business trip or transportation for an entire visiting team. Our services include: 
+                        Vinayaka Travels' event transportation service is built for planners and businesses who need dependable, coordinated logistics on event day. Our services include:
+
                     </p>
 
                    
@@ -466,9 +475,10 @@
                             </div>
 
                             <div>
-                                <h4>Airport Pickup</h4>
+                                <h4>Guest Pickup & Drop</h4>
                                 <p>
-                                    Timely pickup from Kempegowda International Airport to any location in Bangalore
+                                    Coordinated transport for attendees from homes, hotels, or the airport
+
                                 </p>
                             </div>
                         </div>
@@ -479,9 +489,10 @@
                             </div>
 
                             <div>
-                                <h4>Airport Drop</h4>
+                                <h4> Venue Shuttle Services</h4>
                                 <p>
-                                   Scheduled drop-off with buffer time built in for check-in and security
+                                    Continuous shuttle runs between hotels, venues, and parking areas
+
                                 </p>
                             </div>
                         </div>
@@ -546,11 +557,14 @@
       <div class="vt-premium-features-panel">
 
           <span class="vt-premium-panel-label">
-              Why Travelers Partner With Us:
+              Why Travelers Partner With Us
+
           </span>
 
           <h3>
-              A Travel Partner You Can Rely On, Every Flight
+              A Transport Partner You Can Rely On, Every Event
+
+
           </h3>
 
           <p>
@@ -582,11 +596,13 @@
             <div class="vt-premium-features-left">
 
                 <h2 class="vt-premium-features-title">
-                  A Travel Partner You Can Rely On, Every Flight
+                 A Transport Partner You Can Rely On, Every Event
+
                 </h2>
 
                 <p class="vt-premium-features-intro">
-                   From early morning departures to late-night arrivals, Vinayaka Travels ensures your airport journey in Bangalore is smooth, safe, and on schedule.   
+                 From a corporate offsite for 50 employees to a wedding with hundreds of guests, Vinayaka Travels ensures every transport detail is planned and executed on schedule.
+
                 </p>
 
                 <!-- FEATURE LIST -->
@@ -596,9 +612,10 @@
                     <div class="vt-premium-feature-item">
                         <div class="vt-premium-feature-point">01</div>
                         <div class="vt-premium-feature-info">
-                            <h4> Reliable Scheduling </h4>
+                            <h4> Trusted Experience </h4>
                             <p>
-                                Flight tracking and buffer time built into every booking
+                                24+ years of managing transportation for large-scale events
+
                             </p>
                         </div>
                     </div>
@@ -609,7 +626,8 @@
                         <div class="vt-premium-feature-info">
                             <h4> Flexible Service Solutions</h4>
                             <p>
-                                 One-time rides, recurring bookings, or corporate contracts
+                                Single-day, multi-day, and recurring event transport packages
+
                             </p>
                         </div>
                     </div>
@@ -618,9 +636,9 @@
                     <div class="vt-premium-feature-item">
                         <div class="vt-premium-feature-point">03</div>
                         <div class="vt-premium-feature-info">
-                            <h4>Comfort & Safety </h4>
+                            <h4>Comfort & Coordination </h4>
                             <p>
-                                GPS-enabled, well-maintained vehicles for a relaxed ride
+                                Well-maintained vehicles and a dedicated coordinator for every event
 
                             </p>
                         </div>
@@ -821,18 +839,18 @@
                         </div>
 
                         <p class="vt-testimonial-review">
-                            On-time pickup even with a delayed flight — the driver tracked it and adjusted automatically.
+                           Managed transport for our 300-guest conference flawlessly — every shuttle ran on time.
                         </p>
 
                         <div class="vt-testimonial-client">
 
                             <div class="vt-testimonial-avatar">
-                                FF
+                                EM
                             </div>
 
                             <div class="vt-testimonial-client-info">
-                                <h4>Frequent Flyer</h4>
-                                <span>Corporate Client</span>
+                                <h4> Event Manager</h4>
+                                <span> Corporate Conference</span>
                             </div>
 
                         </div>
@@ -864,17 +882,17 @@
                         </div>
 
                         <p class="vt-testimonial-review">
-                            Clean car, polite driver, and a smooth ride to the airport at 4 AM.
+                            Booked them for our wedding guest transport and the coordination was excellent from start to finish.
                         </p>
 
                         <div class="vt-testimonial-client">
 
                             <div class="vt-testimonial-avatar">
-                                BT
+                                WP
                             </div>
 
                             <div class="vt-testimonial-client-info">
-                                <h4>Business Traveler</h4>
+                                <h4> Wedding Planner</h4>
                                 <span></span>
                             </div>
 
@@ -907,18 +925,18 @@
                         </div>
 
                         <p class="vt-testimonial-review">
-                            Reliable airport drop service that we use for all our visiting clients.
+                            Reliable shuttle service between our hotel and the exhibition venue for all three days.
                         </p>
 
                         <div class="vt-testimonial-client">
 
                             <div class="vt-testimonial-avatar">
-                                AM
+                                EC
                             </div>
 
                             <div class="vt-testimonial-client-info">
-                                <h4>Admin Manager</h4>
-                                <span>IT Company</span>
+                                <h4>Exhibition Coordinator</h4>
+                                <span> </span>
                             </div>
 
                         </div>
@@ -950,18 +968,18 @@
                         </div>
 
                         <p class="vt-testimonial-review">
-                            Booked a last-minute airport pickup for a client and the driver was there waiting with a nameplate, right on time.
+                            Handled VIP and speaker transfers for our annual summit without a single delay.
                         </p>
 
                         <div class="vt-testimonial-client">
 
                             <div class="vt-testimonial-avatar">
-                                EA
+                                HH
                             </div>
 
                             <div class="vt-testimonial-client-info">
-                                <h4>Executive Assistant</h4>
-                                <span> Corporate Office</span>
+                                <h4>HR Head</h4>
+                                <span> IT Company</span>
                             </div>
 
                         </div>
@@ -993,18 +1011,18 @@
                         </div>
 
                         <p class="vt-testimonial-review">
-                            We use Vinayaka Travels for all our team's business travel. Fixed pricing and zero surprises — exactly what we need.
+                            Their coordinator kept us updated throughout the event day — made our job so much easier.
                         </p>
 
                         <div class="vt-testimonial-client">
 
                             <div class="vt-testimonial-avatar">
-                               TDM
+                               CET
                             </div>
 
                             <div class="vt-testimonial-client-info">
-                                <h4>Travel Desk Manager</h4>
-                                <span> IT Company</span>
+                                <h4> Corporate Events Team Lead</h4>
+                                <span> </span>
                             </div>
 
                         </div>
@@ -1205,7 +1223,7 @@
 
          
             <h2>
-                 Airport Transfers in Bangalore
+                 Event Transportation in Bangalore
 
             </h2>
 
@@ -1225,13 +1243,14 @@
             <div class="vt-faq-item active">
 
                 <button class="vt-faq-question" type="button">
-                    <span>Do you track flight status for pickups?</span>
+                    <span>Do you provide transportation for large corporate events and conferences?
+</span>
                     <span class="vt-faq-icon">+</span>
                 </button>
 
                 <div class="vt-faq-answer">
                     <p>
-                       Yes. We monitor your flight in real time and adjust the pickup schedule automatically for early arrivals or delays, so you're never kept waiting.
+Yes, we provide one-way outstation cabs so you only pay for the trip you take, without any return-fare charges.
                     </p>
                 </div>
 
@@ -1242,13 +1261,14 @@
             <div class="vt-faq-item">
 
                 <button class="vt-faq-question" type="button">
-                    <span>How early should I book my airport transfer?</span>
+                    <span>Can I book a round-trip outstation cab with the same driver?</span>
                     <span class="vt-faq-icon">+</span>
                 </button>
 
                 <div class="vt-faq-answer">
                     <p>
-                        We recommend booking at least a few hours in advance for guaranteed availability, though we also accommodate on-demand and short-notice bookings based on fleet availability.
+                        Yes, for round trips we assign the same vehicle and driver throughout your journey for consistency and comfort.
+
                     </p>
                 </div>
 
@@ -1259,13 +1279,14 @@
             <div class="vt-faq-item">
 
                 <button class="vt-faq-question" type="button">
-                    <span>Do you provide meet & greet service at arrivals?</span>
+                    <span>Which destinations do you cover for outstation travel?
+</span>
                     <span class="vt-faq-icon">+</span>
                 </button>
 
                 <div class="vt-faq-answer">
                     <p>
-                      Yes. Our driver waits at the arrivals area with a nameplate and assists with luggage, so you can find your ride easily.
+                      We cover major destinations across Karnataka, Tamil Nadu, Andhra Pradesh, and Kerala, along with custom routes based on your itinerary.
 
                     </p>
                 </div>
@@ -1277,13 +1298,15 @@
             <div class="vt-faq-item">
 
                 <button class="vt-faq-question" type="button">
-                    <span> Can I book airport transfers for a group or corporate team?</span>
+                    <span> Are your outstation fares fixed or metered?
+    </span>
                     <span class="vt-faq-icon">+</span>
                 </button>
 
                 <div class="vt-faq-answer">
                     <p>
-                       Absolutely. We offer SUVs and tempo travellers for group transfers, along with corporate account billing for businesses with frequent travel needs.Absolutely. We offer SUVs and tempo travellers for group transfers, along with corporate account billing for businesses with frequent travel needs.
+                       Our outstation fares are fixed and shared upfront at the time of booking, with no hidden toll, parking, or surge charges.
+
                     </p>
                 </div>
 
@@ -1294,13 +1317,14 @@
             <div class="vt-faq-item">
 
                 <button class="vt-faq-question" type="button">
-                    <span>Are your fares fixed or metered?</span>
+                    <span>Can I book outstation cabs for a group or family trip?</span>
                     <span class="vt-faq-icon">+</span>
                 </button>
 
                 <div class="vt-faq-answer">
                     <p>
-                        Our airport transfer fares are fixed and communicated upfront at the time of booking, with no hidden charges or surge pricing.
+                        Absolutely. We offer SUVs and tempo travellers for group and family travel, along with sedans for smaller trips.
+
                     </p>
                 </div>
 
@@ -1311,13 +1335,14 @@
             <div class="vt-faq-item">
 
                 <button class="vt-faq-question" type="button">
-                    <span>Do you operate 24/7 for early morning or late-night flights?</span>
+                    <span>How far in advance should I book an outstation cab?
+</span>
                     <span class="vt-faq-icon">+</span>
                 </button>
 
                 <div class="vt-faq-answer">
                     <p>
-                      Yes, our airport transfer service in Bangalore operates round the clock to accommodate all flight timings.
+                     We recommend booking at least a day in advance for guaranteed availability, though on-demand bookings are accommodated based on fleet availability.
 
                     </p>
                 </div>
@@ -1402,4 +1427,3 @@ document.addEventListener("DOMContentLoaded", function () {
 });
     </script>
 </asp:Content>
-
