@@ -693,9 +693,9 @@
                                 <img src="assets/images/vehicle-tracking.jpg" alt="">
                             </div>
                             <div class="testimonial-one__single-one-content">
-                                <h3 class="testimonial-one__single-one-title mb-3">
-                                    <a href="#">GPS - based vehicle tracking solution.
-                                    </a>
+                                <h3 class="testimonial-one__single-one-title mb-3 text-white">
+                                    GPS - based vehicle tracking solution.
+                                    
                                 </h3>
 
                                 <div class="testimonial-one__single-one-text">
@@ -721,9 +721,9 @@
                                 <img src="assets/images/employee-tracking.jpg" alt="">
                             </div>
                             <div class="testimonial-one__single-one-content">
-                                <h3 class="testimonial-one__single-one-title mb-3">
-                                    <a href="#">Employee Apps
-                                    </a>
+                                <h3 class="testimonial-one__single-one-title mb-3 text-white">
+                                    Employee Apps
+                                   
                                 </h3>
                                 <div class="testimonial-one__single-one-text">
                                     <ul>
@@ -751,9 +751,9 @@
                                 <img src="assets/images/web-rostering.jpg" alt="">
                             </div>
                             <div class="testimonial-one__single-one-content">
-                                <h3 class="testimonial-one__single-one-title mb-3">
-                                    <a href="#">Web based Rostering and Auto Routing with MIS.
-                                    </a>
+                                <h3 class="testimonial-one__single-one-title mb-3 text-white">
+                                    Web based Rostering and Auto Routing with MIS.
+                                    
                                 </h3>
                                 <div class="testimonial-one__single-one-text">
                                     <ul>
@@ -775,9 +775,9 @@
                                 <img src="assets/images/driver-app.jpg" alt="">
                             </div>
                             <div class="testimonial-one__single-one-content">
-                                <h3 class="testimonial-one__single-one-title mb-3">
-                                    <a href="#">Driver Apps.
-                                    </a>
+                                <h3 class="testimonial-one__single-one-title mb-3 text-white">
+                                    Driver Apps.
+                                    
                                 </h3>
 
                                 <div class="testimonial-one__single-one-text">

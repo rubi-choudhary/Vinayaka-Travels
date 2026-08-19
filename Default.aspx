@@ -239,7 +239,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
     <section class="main-slider overflow-hidden">
-        <h1 class="sr-only">Corporate Cab &amp; Employee Transportation Services in Bangalore</h1>
+        <h1 class="sr-only">Corporate Employee Transportation Services</h1>
         <div class="main-slider__carousel owl-carousel owl-theme">
 
 
@@ -352,6 +352,7 @@
         <div class="container">
             <div class="section-title text-center sec-title-animation animation-style1">
                 <h2 class="section-title__title title-animation">Our Fleet</h2>
+                 <p>Our fleet includes comfortable buses, spacious cars, and electric vehicles built to meet every journey.</p>
             </div>
             <div class="row car-brands__grid">
                 <!--Car Brands Single Start-->
@@ -491,6 +492,7 @@
                 <div class="section-title text-center sec-title-animation animation-style1">
 
                     <h2 class="section-title__title title-animation">Our Services</h2>
+                    <p>Our services include employee transportation, airport transfers, and outstation cabs designed for every corporate journey. </p>
                 </div>
                 <div class="row">
                     <!--Team One Single Start-->
