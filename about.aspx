@@ -599,7 +599,7 @@
         </div>
         <div class="container">
             <div class="page-header__inner">
-                <h2>About Company</h2>
+                <h1 class="text-white">About Company</h1>
                 <div class="thm-breadcrumb__box">
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="Default.aspx">Home</a></li>
@@ -859,18 +859,18 @@
                     <div class="faq-one__left bg-white">
                         <div class="section-title-three text-left sec-title-animation animation-style1">
 
-                            <h2 class="section-title-three__title title-animation text-dark">Our Mission &amp; Our Strengths</h2>
+                            <h3 class="section-title-three__title title-animation text-dark">Our Mission &amp; Our Strengths</h3>
                         </div>
 
                         <div class="accrodion-grp faq-one-accrodion faq-one-accrodion-1 bg-white" data-grp-name="faq-one-accrodion-1">
 
                             <div class="accrodion  active">
                                 <div class="accrodion-title">
-                                    <h4 class="fs-4">Our Mission</h4>
+                                    <h3 class="fs-4">Our Mission</h3>
                                 </div>
                                 <div class="accrodion-content" style="">
                                     <div class="inner">
-                                        <h5 class="mb-3">To deliver cutting edge Transport Management solutions to our end customers and improve their bottom lines in business.</h5>
+                                        <p class="mb-3">To deliver cutting edge Transport Management solutions to our end customers and improve their bottom lines in business.</p>
                                         <p>Our prime mission is to become one of the most chosen service provider in the industry by pro-active thinking, astute planning with dynamic visions from relentless pursuit for excellence.</p>
                                         <p>We establish ourselves as a leader in Ground Transportation Business, through wide network, state of art technology, strict quality assurance processes, highly motivated and experienced manpower, to achieve the larger market share, higher revenues, higher profitability and most reliable service delivery status thus creating value for our Customers, Shareholders and Employees.</p>
                                         <ul>
@@ -881,7 +881,7 @@
                                             <li>Providing an End to End Transport service which includes deploying Man power & Technology for Vehicles.</li>
 
                                         </ul>
-                                        <h6 class="mb-3">We Vinayaka Travels plan to achieve the above mission by adhering to the industry standards and the following parameters.</h6>
+                                        <p class="mb-3">We Vinayaka Travels plan to achieve the above mission by adhering to the industry standards and the following parameters.</p>
                                         <p><span>Quality:</span> By maintaining high standards of quality work on the operational front, culture & service that provide immense satisfaction to our customers.</p>
                                         <p><span>Cost:</span> By always remaining competitive by world standards and maintain service levels that achieve customer satisfaction.</p>
                                         <p><span>Delivery:</span> By always being on time with excellent planning &execution by curbing down unnecessary delays, not hampering the productivity of the company.</p>
@@ -895,7 +895,7 @@
                             </div>
                             <div class="accrodion">
                                 <div class="accrodion-title">
-                                    <h4 class="fs-4">Our Strengths   </h4>
+                                    <h3 class="fs-4">Our Strengths   </h3>
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">

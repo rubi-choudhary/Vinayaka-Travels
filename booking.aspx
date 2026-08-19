@@ -380,7 +380,7 @@
         </div>
         <div class="container">
             <div class="page-header__inner">
-                <h2>Book Now</h2>
+                <h1 class="text-white">Book Now</h1>
                 <div class="thm-breadcrumb__box">
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="Default.aspx">Home</a></li>

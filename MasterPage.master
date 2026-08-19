@@ -20,11 +20,11 @@
         <title>Vinayaka Travels</title>
         <meta name="description" content="Vinayaka Travels" />
     </asp:ContentPlaceHolder>
-   
 
-     <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/favicons/favicon-48x48.png" />
 
-  
+    <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/favicons/favicon-48x48.png" />
+
+
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -269,7 +269,16 @@
                 font-size: 20px;
             }
         }
+
+        .content-box p.widget-title,
+        .form-inner p.widget-title {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
     </style>
+
+
     <link href="assets/js/snackbar/snackbar.min.css" rel="stylesheet" />
     <link href="assets/js/flatpickr/flatpickr.min.css" rel="stylesheet" />
     <link href="assets/js/flatpickr/ie.css" rel="stylesheet" />
@@ -289,6 +298,16 @@
 
         gtag('config', 'G-T78GXY1Y17');
     </script>
+
+    <%--<script>
+        document.addEventListener('DOMContentLoaded', function () {
+            document.querySelectorAll('h4').forEach(function (h4) {
+                if (h4.textContent.trim() === '') {
+                    h4.remove();
+                }
+            });
+        });
+    </script>--%>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
@@ -329,12 +348,12 @@
             overflow: hidden;
         }
 
-        .site-footer a,
-        .site-footer p,
-        .site-footer li {
-            overflow-wrap: anywhere;
-            word-break: break-word;
-        }
+            .site-footer a,
+            .site-footer p,
+            .site-footer li {
+                overflow-wrap: anywhere;
+                word-break: break-word;
+            }
 
         @media (max-width: 991px) {
             .site-footer .container {
@@ -510,13 +529,14 @@
         .car-brands .enjoy-one__btn-box {
             margin-top: 8px;
         }
+
         .enjoy-one {
             overflow: visible;
         }
 
-        .enjoy-one .container {
-            max-width: 100%;
-        }
+            .enjoy-one .container {
+                max-width: 100%;
+            }
 
         @media (min-width: 992px) {
             section.enjoy-one .row {
@@ -655,6 +675,13 @@
                 padding: 24px 16px 22px;
             }
         }
+
+
+
+        .wow h1, .wow h2, .wow h3, .wow h4, .wow h5, .wow h6 {
+    visibility: visible !important;
+    opacity: 1 !important;
+}
     </style>
 </head>
 <body class="custom-cursor">
@@ -677,15 +704,22 @@
                                     <a href="/">
                                         <img src="/assets/images/resources/logo.png" width="300" alt="" /></a>
                                 </div>
-                                <div class="content-box">
+                                <%-- <div class="content-box">
                                     <h4>About Us</h4>
                                     <p>
                                         Vinayaka Travels Established in the year 2002. Company represented by people with industry experience spanning more than four decades. 
                            
                                     </p>
+                                </div>--%>
+
+                                <div class="content-box">
+                                    <p class="widget-title">About Us</p>
+                                    <p>
+                                        Vinayaka Travels Established in the year 2002. Company represented by people with industry experience spanning more than four decades. 
+                                    </p>
                                 </div>
                                 <div class="form-inner">
-                                    <h4>Get a free quote</h4>
+                                    <p class="widget-title">Get a free quote</p>
                                     <div action="#" class="contact-form-validated"
                                         novalidate="novalidate">
                                         <div class="form-group">
@@ -777,7 +811,7 @@
                                     <li>
                                         <a href="contact.aspx">Contact</a>
                                     </li>
-                                    
+
                                 </ul>
                             </div>
 
@@ -788,9 +822,9 @@
                                     <i class="icon-call"></i>
                                 </div>
                                 <div class="main-menu__call-content">
-                                    <h5 class="main-menu__call-number">
+                                    <p class="main-menu__call-number">
                                         <a href="tel:+918645322290">+91 8645322290</a>
-                                    </h5>
+                                    </p>
                                 </div>
                             </div>
                             <div class="main-menu__nav-sidebar-icon">
@@ -821,7 +855,9 @@
                     <div class="row">
                         <div class="col-12 col-md-6 col-lg-3 col-xl-3 wow fadeInUp" data-wow-delay="200ms">
                             <div class="footer-widget__links">
-                                <h4 class="footer-widget__title">About</h4>
+                                <%--<h4 class="footer-widget__title">About</h4>--%>
+                                <p class="footer-widget__title">About</p>
+
                                 <ul class="footer-widget__cases-list list-unstyled">
                                     <li>In the Year 2002, the Company started a Staff transport services (People Logistics) operating to cater the demand of professional transport service provider.</li>
                                 </ul>
@@ -829,22 +865,23 @@
                         </div>
                         <div class="col-12 col-md-6 col-lg-3 col-xl-3 wow fadeInUp" data-wow-delay="100ms">
                             <div class="footer-widget__cases">
-                                <h4 class="footer-widget__title">Useful links</h4>
+                                <%--<h4 class="footer-widget__title">Useful links</h4>--%>
+                                <p class="footer-widget__title">Useful links</p>
                                 <ul class="footer-widget__cases-list list-unstyled">
                                     <li><a href="/">Home</a></li>
                                     <li><a href="about.aspx">About Us</a></li>
                                     <li><a href="services.aspx">Services</a></li>
                                     <li><a href="fleets.aspx">Fleets</a></li>
                                     <li><a href="contact.aspx">Contact</a></li>
-                                     <li><a href="blogs.aspx">Blogs</a></li>
-                                     <li><a href="sitemap.aspx">Sitemap</a></li>
+                                    <li><a href="blogs.aspx">Blogs</a></li>
+                                    <li><a href="sitemap.aspx">Sitemap</a></li>
                                 </ul>
                             </div>
                         </div>
 
                         <div class="col-12 col-md-6 col-lg-3 col-xl-3 wow fadeInUp" data-wow-delay="300ms">
                             <div class="footer-widget__address">
-                                <h3 class="footer-widget__title">Address</h3>
+                                <p class="footer-widget__title">Address</p>
                                 <ul class="footer-widget__address-list list-unstyled">
                                     <li>M/s. Vinayaka Travels<br />
                                         #509, Ground Floor,
@@ -860,7 +897,7 @@
                         </div>
                         <div class="col-12 col-md-6 col-lg-3 col-xl-3 wow fadeInUp" data-wow-delay="400ms">
                             <div class="footer-widget__get-in-touch">
-                                <h3 class="footer-widget__title">Get In Touch</h3>
+                                <p class="footer-widget__title">Get In Touch</p>
                                 <ul class="footer-widget__get-in-touch-list list-unstyled">
                                     <li>
                                         <a href="mailto:salessupport@vinayakatravels.com ">salessupport@vinayakatravels.com </a>
@@ -874,11 +911,17 @@
                                         </a>
                                     </li>
                                 </ul>
-                                <div class="site-footer__social">
+                                <%-- <div class="site-footer__social">
                                     <a href="#"><i class="icon-facebook"></i></a>
                                     <a href="#"><i class="icon-twitter"></i></a>
                                     <a href="#"><i class="icon-instagram"></i></a>
                                     <a href="#"><i class="icon-instagram-1"></i></a>
+                                </div>--%>
+                                <div class="site-footer__social">
+                                    <a href="https://www.facebook.com/people/Vinayaka-Travels/61591814354324/"><i class="icon-facebook"></i></a>
+                                    <%-- <a href="#"><i class="icon-twitter"></i></a>--%>
+                                    <a href="https://www.linkedin.com/company/vinayaka-travels-company/"><i class="icon-instagram"></i></a>
+                                    <a href="https://www.instagram.com/vinayaka__travels__/"><i class="icon-instagram-1"></i></a>
                                 </div>
                             </div>
                         </div>

@@ -70,9 +70,9 @@
         gap: 10px;
     }
 
-    .check-out-three__meta li {
-        gap: 10px;
-    }
+        .check-out-three__meta li {
+            gap: 10px;
+        }
 
     .faq-one__left {
         padding: 75px 20px 70px;
@@ -122,33 +122,6 @@
     .listing-single__car-overview-point-right {
         margin-left: 50px;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
 
 
@@ -299,10 +272,10 @@
         margin-top: 0;
     }
 
-    .testimonial-three__right .section-title-three__title {
-        font-size: 40px;
-        line-height: 50px;
-    }
+        .testimonial-three__right .section-title-three__title {
+            font-size: 40px;
+            line-height: 50px;
+        }
 
     .blog-two__left {
         max-width: 650px;
@@ -334,10 +307,10 @@
         margin-right: 0;
     }
 
-    .faq-two__left .section-title-three__title {
-        font-size: 35px;
-        line-height: 40px;
-    }
+        .faq-two__left .section-title-three__title {
+            font-size: 35px;
+            line-height: 40px;
+        }
 
     .faq-two__text br {
         display: none;
@@ -362,17 +335,6 @@
         gap: 20px;
         flex-direction: column;
     }
-
-
-
-
-
-
-
-
-
-
-
 }
 
 
@@ -415,9 +377,9 @@
         line-height: 50px;
     }
 
-    .video-one__title br {
-        display: none;
-    }
+        .video-one__title br {
+            display: none;
+        }
 
     .footer-widget__address {
         margin-left: 0;
@@ -482,13 +444,13 @@
         gap: 10px;
     }
 
-    .new-car__list li .icon span {
-        font-size: 20px;
-    }
+        .new-car__list li .icon span {
+            font-size: 20px;
+        }
 
-    .new-car__list li::before {
-        display: none;
-    }
+        .new-car__list li::before {
+            display: none;
+        }
 
     .about-two__left {
         max-width: 650px;
@@ -520,9 +482,9 @@
         gap: 8px;
     }
 
-    .check-out-three__meta li {
-        gap: 10px;
-    }
+        .check-out-three__meta li {
+            gap: 10px;
+        }
 
     .faq-one__left {
         max-width: 650px;
@@ -622,20 +584,6 @@
     .listing-single__sidebar {
         margin-top: 50px;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
 
 
@@ -654,18 +602,18 @@
         line-height: 45px;
     }
 
-    .section-title__title br {
-        display: none;
-    }
+        .section-title__title br {
+            display: none;
+        }
 
     .section-title-two__title {
         font-size: 30px;
         line-height: 40px;
     }
 
-    .section-title-two__title br {
-        display: none;
-    }
+        .section-title-two__title br {
+            display: none;
+        }
 
     .section-title-three__title {
         color: var(--gizmo-white);
@@ -673,9 +621,9 @@
         line-height: 40px;
     }
 
-    .section-title-three__title br {
-        display: none;
-    }
+        .section-title-three__title br {
+            display: none;
+        }
 
     .like-us__inner {
         padding: 25px 15px 30px;
@@ -734,9 +682,9 @@
         line-height: 35px;
     }
 
-    .video-one__title br {
-        display: none;
-    }
+        .video-one__title br {
+            display: none;
+        }
 
     .footer-widget__cases {
         margin-left: 0;
@@ -805,9 +753,9 @@
         line-height: 40px;
     }
 
-    .top-notch__top-title br {
-        display: none;
-    }
+        .top-notch__top-title br {
+            display: none;
+        }
 
     .top-notch__single {
         padding: 97px 15px 60px;
@@ -883,9 +831,9 @@
         align-items: baseline;
     }
 
-    .new-car__list li::before {
-        display: none;
-    }
+        .new-car__list li::before {
+            display: none;
+        }
 
     .about-two__img-box {
         margin-right: 0;
@@ -949,25 +897,25 @@
         align-items: baseline;
     }
 
-    .check-out-three__meta li {
-        gap: 10px;
-    }
+        .check-out-three__meta li {
+            gap: 10px;
+        }
 
     .check-out-three__view a {
         font-size: 12px;
     }
 
-    .check-out-three__view a span {
-        font-size: 20px;
-    }
+        .check-out-three__view a span {
+            font-size: 20px;
+        }
 
     .faq-one__left {
         padding: 45px 15px 50px;
     }
 
-    .faq-one__left .section-title-three__tagline {
-        line-height: 28px;
-    }
+        .faq-one__left .section-title-three__tagline {
+            line-height: 28px;
+        }
 
     .faq-one__right {
         margin-top: 100px;
@@ -996,9 +944,9 @@
         margin-top: 30px;
     }
 
-    .counter-one__top-text br {
-        display: none;
-    }
+        .counter-one__top-text br {
+            display: none;
+        }
 
     .blog-two__left {
         margin-right: 0;
@@ -1013,9 +961,9 @@
         line-height: 30px;
     }
 
-    .blog-two__title a br {
-        display: none;
-    }
+        .blog-two__title a br {
+            display: none;
+        }
 
     .blog-two__right {
         margin-left: 0;
@@ -1169,9 +1117,9 @@
         gap: 10px;
     }
 
-    .listing-single__tag a {
-        gap: 8px;
-    }
+        .listing-single__tag a {
+            gap: 8px;
+        }
 
     .listing-single__car-overview-points-box {
         flex-direction: column;
@@ -1240,8 +1188,6 @@
         line-height: 40px;
         letter-spacing: 0;
     }
-
-
 }
 
 
@@ -1338,13 +1284,17 @@
     }
 }
 
-@media only screen and (min-width: 1200px) and (max-width: 1300px) {}
+@media only screen and (min-width: 1200px) and (max-width: 1300px) {
+}
 
-@media only screen and (min-width: 1400px) and (max-width: 1610px) {}
+@media only screen and (min-width: 1400px) and (max-width: 1610px) {
+}
 
-@media only screen and (min-width: 1200px) and (max-width: 1399px) {}
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+}
 
-@media only screen and (min-width: 1320px) and (max-width: 1350px) {}
+@media only screen and (min-width: 1320px) and (max-width: 1350px) {
+}
 
 
 
@@ -1390,19 +1340,9 @@
         right: -200px;
     }
 
-    .main-slider-two__img img {
-        width: 70% !important;
-    }
-
-
-
-
-
-
-
-
-
-
+        .main-slider-two__img img {
+            width: 70% !important;
+        }
 }
 
 
@@ -1419,9 +1359,9 @@
         padding: 0px 30px;
     }
 
-    .main-slider .owl-theme .owl-nav .owl-prev {
-        margin-bottom: 10px;
-    }
+        .main-slider .owl-theme .owl-nav .owl-prev {
+            margin-bottom: 10px;
+        }
 
     .main-slider__img {
         display: none;
@@ -1446,12 +1386,6 @@
     .main-slider-three .owl-theme .owl-nav {
         display: none;
     }
-
-
-
-
-
-
 }
 
 
@@ -1465,9 +1399,9 @@
         padding: 0px 30px;
     }
 
-    .main-slider .owl-theme .owl-nav .owl-prev {
-        margin-bottom: 10px;
-    }
+        .main-slider .owl-theme .owl-nav .owl-prev {
+            margin-bottom: 10px;
+        }
 
     .main-slider__img {
         display: none;
@@ -1507,17 +1441,6 @@
         font-size: 50px;
         line-height: 65px;
     }
-
-
-
-
-
-
-
-
-
-
-
 }
 
 
@@ -1555,14 +1478,16 @@
     .main-slider__title {
         font-size: 28px;
         line-height: 43px;
-        text-align:center;
+        text-align: center;
     }
+
     .main-slider__carousel.owl-carousel {
         display: block;
         height: 500px;
         width: 100%;
         z-index: 1;
     }
+
     .main-slider__btn-box {
         flex-direction: column;
         align-items: baseline;
@@ -1637,18 +1562,6 @@
         padding-top: 181px;
         padding-bottom: 280px;
     }
-
-
-
-
-
-
-
-
-
-
-
-
 }
 
 
@@ -1659,12 +1572,9 @@
         right: 0;
     }
 
-    .main-slider__img img {
-        width: 90% !important;
-    }
-
-
-
+        .main-slider__img img {
+            width: 90% !important;
+        }
 }
 
 
@@ -1677,15 +1587,9 @@
         right: -150px;
     }
 
-    .main-slider__img img {
-        width: 80% !important;
-    }
-
-
-
-
-
-
+        .main-slider__img img {
+            width: 80% !important;
+        }
 }
 
 
@@ -1706,19 +1610,15 @@
         padding: 0px 30px;
     }
 
-    .main-slider .owl-theme .owl-nav .owl-prev {
-        margin-bottom: 10px;
-    }
+        .main-slider .owl-theme .owl-nav .owl-prev {
+            margin-bottom: 10px;
+        }
 
 
     .main-slider-two .owl-theme .owl-nav {
         align-items: flex-end;
         padding: 0px 30px;
     }
-
-
-
-
 }
 
 
@@ -1736,7 +1636,8 @@
 /*--------------------------------------------------------------
 # Main Menu All Responsice Css
 --------------------------------------------------------------*/
-@media only screen and (min-width: 1200px) and (max-width: 1343px) {}
+@media only screen and (min-width: 1200px) and (max-width: 1343px) {
+}
 
 
 
@@ -1768,14 +1669,6 @@
     .main-menu-three .mobile-nav__toggler:hover {
         color: var(--gizmo-white);
     }
-
-
-
-
-
-
-
-
 }
 
 
@@ -1810,11 +1703,6 @@
     .main-menu-three .mobile-nav__toggler:hover {
         color: var(--gizmo-white);
     }
-
-
-
-
-
 }
 
 
@@ -1875,16 +1763,6 @@
     .main-menu-three .mobile-nav__toggler:hover {
         color: var(--gizmo-white);
     }
-
-
-
-
-
-
-
-
-
-
 }
 
 
@@ -1906,12 +1784,6 @@
     .main-menu-three__wrapper-inner {
         padding: 0 20px 0;
     }
-
-
-
-
-
-
 }
 /* =====================================================
    GLOBAL MOBILE PAGE HEADER / BREADCRUMB - ALL PAGES
@@ -2134,9 +2006,9 @@
         padding-right: 25px;
     }
 
-    .vt-premium-service-content h2 {
-        font-size: 36px;
-    }
+        .vt-premium-service-content h2 {
+            font-size: 36px;
+        }
 
     .vt-premium-service-visual {
         min-height: 480px;
@@ -2237,9 +2109,9 @@
         margin-bottom: 45px;
     }
 
-    .vt-sticky-heading h2 {
-        font-size: 34px;
-    }
+        .vt-sticky-heading h2 {
+            font-size: 34px;
+        }
 
     .vt-sticky-layout {
         grid-template-columns: minmax(0, 1fr) 360px;
@@ -2360,9 +2232,9 @@
         margin-bottom: 45px;
     }
 
-    .vt-premium-service-content h2 {
-        font-size: 34px;
-    }
+        .vt-premium-service-content h2 {
+            font-size: 34px;
+        }
 
     .vt-premium-service-visual {
         min-height: 500px;
@@ -2412,9 +2284,9 @@
         margin-bottom: 30px;
     }
 
-    .vt-service-cta-content h2 {
-        font-size: 30px;
-    }
+        .vt-service-cta-content h2 {
+            font-size: 30px;
+        }
 
     .vt-service-cta-actions {
         padding-left: 0;
@@ -2710,9 +2582,9 @@
         min-width: 42px;
     }
 
-    .vt-trust-icon-circle i {
-        font-size: 18px;
-    }
+        .vt-trust-icon-circle i {
+            font-size: 18px;
+        }
 
     .vt-service-trust-content h4 {
         font-size: 15px;
@@ -2739,9 +2611,9 @@
         padding: 14px 16px;
     }
 
-    .vt-service-overview-image-box strong {
-        font-size: 24px;
-    }
+        .vt-service-overview-image-box strong {
+            font-size: 24px;
+        }
 
     .vt-service-why-section {
         padding: 35px 0;
@@ -2755,13 +2627,13 @@
         padding: 20px 16px 22px;
     }
 
-    .vt-service-why-item h3 {
-        font-size: 18px;
-    }
+        .vt-service-why-item h3 {
+            font-size: 18px;
+        }
 
-    .vt-service-why-item p {
-        font-size: 13.5px;
-    }
+        .vt-service-why-item p {
+            font-size: 13.5px;
+        }
 
     .vt-premium-service-section {
         padding: 40px 0;
@@ -3931,6 +3803,7 @@
                 font-size: 12px !important;
             }
 }
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
     .page-header {
@@ -4098,5 +3971,73 @@
             .page-header .thm-breadcrumb li span {
                 font-size: 10px !important;
             }
+}
 
-    /* The End */
+/* =========================================
+   COMPACT FORM - MOBILE
+========================================= */
+@media only screen and (max-width: 767px) {
+
+    .vt-service-detail-form-card {
+        padding: 18px 16px;
+    }
+
+    .vt-service-detail-form-head {
+        margin-bottom: 16px;
+    }
+
+        .vt-service-detail-form-head h2 {
+            font-size: 20px;
+            margin-bottom: 5px;
+        }
+
+        .vt-service-detail-form-head p {
+            font-size: 13px;
+            line-height: 1.5;
+        }
+
+    .vt-service-detail-field {
+        margin-bottom: 12px;
+    }
+
+        .vt-service-detail-field label {
+            margin-bottom: 5px;
+            font-size: 12px;
+        }
+
+        .vt-service-detail-field input,
+        .vt-service-detail-field select,
+        .vt-service-detail-field textarea {
+            padding: 10px 12px;
+            font-size: 13px;
+        }
+
+        .vt-service-detail-field textarea {
+            height: 65px;
+        }
+
+    .vt-service-detail-submit {
+        min-height: 46px;
+        font-size: 14px;
+    }
+}
+
+/* Even tighter on small phones */
+@media only screen and (max-width: 567px) {
+
+    .vt-service-detail-form-card {
+        padding: 16px 14px;
+    }
+
+    .vt-service-detail-field {
+        margin-bottom: 10px;
+    }
+
+        .vt-service-detail-field textarea {
+            height: 55px;
+        }
+
+    .vt-service-detail-submit {
+        min-height: 44px;
+    }
+}

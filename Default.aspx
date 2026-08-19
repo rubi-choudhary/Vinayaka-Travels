@@ -1,15 +1,15 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
 
 <asp:Content ID="ContentSeo" ContentPlaceHolderID="seoHead" runat="Server">
-    <title>Corporate Cab & Employee Transportation Services</title>
-    <meta name="description" content="Vinayaka Travels offers employee transportation, airport transfers, outstation cabs, event transport & car lease across India. 20+ years' experience, 400+ vehicles, 8,500+ daily commuters." />
+    <title>Vinayaka Travels Employee Transportation Company Bangalore</title>
+    <meta name="description" content="With 24+ years of experience, Vinayaka Travels provides reliable employee transportation in Bangalore. Safe, on-time, and cost-effective corporate Cabs & Buses" />
     <meta name="keywords" content="Employee Transportation Services; Corporate Cab Services; Outstation Cabs Bangalore; Airport Taxi Service Bangalore" />
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />
 
-    
 
 
-<script type="application/ld+json">
+
+    <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -131,82 +131,92 @@
 
   ]
 }
-</script>
+    </script>
 
     <style>
-                /* =========================
+        /* =========================
    MOBILE MAIN BANNER FIX
 ========================= */
-@media only screen and (max-width: 767px) {
+        @media only screen and (max-width: 767px) {
 
-   .main-slider {
-        display: block !important;
-        width: 100% !important;
-        height: 420px !important;
-        min-height: 420px !important;
-        overflow: hidden !important;
-    }
+            .main-slider {
+                display: block !important;
+                width: 100% !important;
+                height: 420px !important;
+                min-height: 420px !important;
+                overflow: hidden !important;
+            }
 
-    .main-slider__carousel.owl-carousel {
-        display: block !important;
-        visibility: visible !important;
-        opacity: 1 !important;
-        width: 100% !important;
-        height: 420px !important;
-    }
+            .main-slider__carousel.owl-carousel {
+                display: block !important;
+                visibility: visible !important;
+                opacity: 1 !important;
+                width: 100% !important;
+                height: 420px !important;
+            }
 
-    .main-slider__carousel .owl-stage-outer {
-        display: block !important;
-        width: 100% !important;
-        height: 420px !important;
-    }
+            .main-slider__carousel .owl-stage-outer {
+                display: block !important;
+                width: 100% !important;
+                height: 420px !important;
+            }
 
-    .main-slider__carousel .owl-stage {
-        height: 420px !important;
-    }
+            .main-slider__carousel .owl-stage {
+                height: 420px !important;
+            }
 
-    .main-slider__carousel .owl-item {
-        height: 420px !important;
-        display: block !important;
-    }
+            .main-slider__carousel .owl-item {
+                height: 420px !important;
+                display: block !important;
+            }
 
-    .main-slider__carousel .item {
-        display: block !important;
-        position: relative !important;
-        width: 100% !important;
-        height: 420px !important;
-        min-height: 420px !important;
-    }
+            .main-slider__carousel .item {
+                display: block !important;
+                position: relative !important;
+                width: 100% !important;
+                height: 420px !important;
+                min-height: 420px !important;
+            }
 
-    .main-slider__carousel .main-slider__bg {
-        display: block !important;
-        position: absolute !important;
-        inset: 0 !important;
-        width: 100% !important;
-        height: 420px !important;
-        min-height: 420px !important;
-        z-index: 0 !important;
+            .main-slider__carousel .main-slider__bg {
+                display: block !important;
+                position: absolute !important;
+                inset: 0 !important;
+                width: 100% !important;
+                height: 420px !important;
+                min-height: 420px !important;
+                z-index: 0 !important;
+                background-repeat: no-repeat !important;
+                background-size: cover !important;
+                background-position: center center !important;
+                visibility: visible !important;
+                opacity: 1 !important;
+            }
 
-        background-repeat: no-repeat !important;
-        background-size: cover !important;
-        background-position: center center !important;
+            .main-slider__carousel .main-slider__overly {
+                display: block !important;
+                position: absolute !important;
+                inset: 0 !important;
+                z-index: 1 !important;
+            }
 
-        visibility: visible !important;
-        opacity: 1 !important;
-    }
+            .main-slider__carousel .container {
+                position: relative !important;
+                z-index: 2 !important;
+                height: 420px !important;
+            }
 
-    .main-slider__carousel .main-slider__overly {
-        display: block !important;
-        position: absolute !important;
-        inset: 0 !important;
-        z-index: 1 !important;
-    }
-
-    .main-slider__carousel .container {
-        position: relative !important;
-        z-index: 2 !important;
-        height: 420px !important;
-    }
+            .sr-only {
+                position: absolute;
+                width: 1px;
+                height: 1px;
+                padding: 0;
+                margin: -1px;
+                overflow: hidden;
+                clip: rect(0, 0, 0, 0);
+                white-space: nowrap;
+                border: 0;
+            }
     </style>
 
 
@@ -229,7 +239,9 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
     <section class="main-slider overflow-hidden">
+        <h1 class="sr-only">Corporate Cab &amp; Employee Transportation Services in Bangalore</h1>
         <div class="main-slider__carousel owl-carousel owl-theme">
+
 
 
             <div class="item">
@@ -245,14 +257,16 @@
                     <div class="main-slider__content">
                         <br />
                         <br />
-                        <h1 class="main-slider__title">Corporate Cab & Employee<br />
+
+
+                        <%--  <div class="main-slider__title" role="heading" aria-level="1">
+                            <h2 class="main-slider__title">Corporate Cab & Employee<br />
+                            Transportation Services</h2>
+                        </div>--%>
+                        <div class="main-slider__title">
+                            Corporate Cab &amp; Employee<br />
                             Transportation Services
-
-
-
-
-
-                        </h1>
+                        </div>
                         <br />
                     </div>
                 </div>
@@ -269,8 +283,12 @@
                     <div class="main-slider__content">
                         <br />
                         <br />
-                        <h2 class="main-slider__title">Employees<br />
-                            Transportation Services</h2>
+                        <%--<h2 class="main-slider__title">Employees<br />
+                            Transportation Services</h2>--%>
+                        <div class="main-slider__title">
+                            Employees<br />
+                            Transportation Services
+                        </div>
 
                         <br />
                     </div>
@@ -288,9 +306,15 @@
                     <div class="main-slider__content">
                         <br />
                         <br />
-                        <h2 class="main-slider__title">Mobility Solutions for
+                        <%--<h2 class="main-slider__title">Mobility Solutions for
                             <br />
-                            Corporates &amp; Events</h2>
+                            Corporates &amp; Events</h2>--%>
+                        <div class="main-slider__title">
+                            Mobility Solutions for
+    <br />
+                            Corporates &amp; Events
+                        </div>
+
                         <br />
                     </div>
                 </div>
@@ -307,9 +331,15 @@
                     <div class="main-slider__content">
                         <br />
                         <br />
-                        <h2 class="main-slider__title">Driving Businesses Forward with
+                        <%-- <h2 class="main-slider__title">Driving Businesses Forward with
                             <br />
-                            Reliable Rides</h2>
+                            Reliable Rides</h2>--%>
+
+                        <div class="main-slider__title">
+                            Driving Businesses Forward with
+    <br />
+                            Reliable Rides
+                        </div>
 
                         <br />
                     </div>
@@ -317,6 +347,7 @@
             </div>
         </div>
     </section>
+    <%--<h1 class="sr-only">Corporate Cab & Employee Transportation Services in Bangalore</h1>--%>
     <section class="car-brands">
         <div class="container">
             <div class="section-title text-center sec-title-animation animation-style1">
@@ -436,8 +467,8 @@
                 <div class="col-12 col-lg-5 col-xl-5">
                     <div class="enjoy-one__right">
                         <div class="enjoy-one__title-box">
-                            <h3 class="enjoy-one__title">About Vinayaka Travels
-                            </h3>
+                            <h2 class="enjoy-one__title">About Vinayaka Travels
+                            </h2>
                             <p class="enjoy-one__text">
                                 Vinayaka Travels is based out of Bengaluru - the Silicon city of India & we have extended our services to Chennai & Hyderabad.
 
@@ -471,10 +502,10 @@
                                 </div>
                             </div>
                             <div class="team-one__content">
-                                <h4 class="team-one__title">
+                                <h3 class="team-one__title">
                                     <a href="#">Employee Transportation
                                     </a>
-                                </h4>
+                                </h3>
 
 
 
@@ -491,10 +522,10 @@
                                 </div>
                             </div>
                             <div class="team-one__content">
-                                <h4 class="team-one__title">
+                                <h3 class="team-one__title">
                                     <a href="team-details.html">Airport Transfers
                                     </a>
-                                </h4>
+                                </h3>
 
 
 
@@ -511,10 +542,10 @@
                                 </div>
                             </div>
                             <div class="team-one__content">
-                                <h4 class="team-one__title">
+                                <h3 class="team-one__title">
                                     <a href="#">Outstation Cabs
                                     </a>
-                                </h4>
+                                </h3>
 
 
                             </div>

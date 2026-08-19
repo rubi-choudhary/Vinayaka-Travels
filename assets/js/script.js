@@ -1067,39 +1067,102 @@
         perspective: 400
       });
 
-      if (animation[1] == "style1") {
-        gsap.set(quote.split.chars, {
-          opacity: 0,
-          y: "90%",
-          rotateX: "-40deg"
+      // // if (animation[1] == "style1") {
+      // //   gsap.set(quote.split.chars, {
+      // //     opacity: 0,
+      // //     y: "90%",
+      // //     rotateX: "-40deg"
+      // //   });
+      //   // }
+
+      //   if (animation[1] == "style1") {
+      //       gsap.set(quote.split.chars, {
+      //           opacity: 1,
+      //           y: "90%",
+      //           rotateX: "-40deg"
+      //       });
+      //   }
+
+      // // if (animation[1] == "style2") {
+      // //   gsap.set(quote.split.chars, {
+      // //     opacity: 0,
+      // //     x: "50"
+      // //   });
+      //   // }
+
+      //   if (animation[1] == "style2") {
+      //       gsap.set(quote.split.chars, {
+      //           opacity: 1,
+      //           x: "50"
+      //       });
+      //   }
+      // // if (animation[1] == "style3") {
+      // //   gsap.set(quote.split.chars, {
+      // //     opacity: 0,
+      // //   });
+      //   // }
+
+
+      //   if (animation[1] == "style3") {
+      //       gsap.set(quote.split.chars, {
+      //           opacity: 1,
+      //       });
+
+  //     quote.animation = gsap.to(quote.split.chars, {
+  //       scrollTrigger: {
+  //         trigger: quote,
+  //         start: "top 90%",
+  //       },
+  //       x: "0",
+  //       y: "0",
+  //       rotateX: "0",
+  //       opacity: 1,
+  //       duration: 1,
+  //       ease: Back.easeOut,
+  //       stagger: .02
+  //     });
+  //   });
+        // }
+
+        if (animation[1] == "style1") {
+            gsap.set(quote.split.chars, {
+                opacity: 1,
+                y: "0%",
+                rotateX: "0deg"
+            });
+        }
+
+        if (animation[1] == "style2") {
+            gsap.set(quote.split.chars, {
+                opacity: 1,
+                x: "0"
+            });
+        }
+
+        if (animation[1] == "style3") {
+            gsap.set(quote.split.chars, {
+                opacity: 1,
+            });
+        }
+
+        quote.animation = gsap.to(quote.split.chars, {
+            scrollTrigger: {
+                trigger: quote,
+                start: "top 90%",
+            },
+            x: "0",
+            y: "0",
+            rotateX: "0",
+            opacity: 1,
+            duration: 1,
+            ease: Back.easeOut,
+            stagger: .02
         });
-      }
-      if (animation[1] == "style2") {
-        gsap.set(quote.split.chars, {
-          opacity: 0,
-          x: "50"
-        });
-      }
-      if (animation[1] == "style3") {
-        gsap.set(quote.split.chars, {
-          opacity: 0,
-        });
-      }
-      quote.animation = gsap.to(quote.split.chars, {
-        scrollTrigger: {
-          trigger: quote,
-          start: "top 90%",
-        },
-        x: "0",
-        y: "0",
-        rotateX: "0",
-        opacity: 1,
-        duration: 1,
-        ease: Back.easeOut,
-        stagger: .02
-      });
     });
   }
+
+
+
   ScrollTrigger.addEventListener("refresh", title_animation);
 
 

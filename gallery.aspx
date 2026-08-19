@@ -115,7 +115,7 @@
         </div>
         <div class="container">
             <div class="page-header__inner">
-                <h2>Gallery</h2>
+                <h1 class="text-white">Gallery</h1>
                 <div class="thm-breadcrumb__box">
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="Default.aspx">Home</a></li>
@@ -132,6 +132,10 @@
     <section class="listing-single pt-5 pb-5">
 
         <div class="container">
+              <div class="section-title text-center sec-title-animation animation-style1">
+
+      <h2 class="section-title__title title-animation">Our Gallery</h2>
+  </div>
             <div class="listing-single__gallery">
                 <div class="row">
                     <!--Listing Single Gallery Single Start-->

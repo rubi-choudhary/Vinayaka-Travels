@@ -17,7 +17,7 @@
 ========================================= -->
 <section class="vt-service-detail-hero">
 
-    <div class="vt-service-detail-overlay" style="background-image: url(assets/images/about-banner.jpg);"></div>
+    <div class="vt-service-detail-overlay"></div>
 
     <div class="container">
         <div class="row align-items-center">
@@ -321,7 +321,7 @@
                 <i class="fi fi-sr-shield-check"></i>
             </div>
 
-            
+            <span class="vt-service-why-count">01</span>
         </div>
 
         <h3>Safety First</h3>
@@ -342,7 +342,7 @@
                 <i class="fas fa-clock"></i>
             </div>
 
-            
+            <span class="vt-service-why-count">02</span>
         </div>
 
         <h3>Reliable &amp; On-Time</h3>
@@ -363,7 +363,7 @@
                 <i class="fas fa-bus"></i>
             </div>
 
-           
+            <span class="vt-service-why-count">03</span>
         </div>
 
         <h3>Modern Fleet</h3>
@@ -384,7 +384,7 @@
                 <i class="fas fa-users"></i>
             </div>
 
-           
+            <span class="vt-service-why-count">04</span>
         </div>
 
         <h3>Experienced Team</h3>
@@ -405,7 +405,7 @@
                 <i class="fas fa-headset"></i>
             </div>
 
-            
+            <span class="vt-service-why-count">05</span>
         </div>
 
         <h3>Dedicated Support</h3>
@@ -426,7 +426,7 @@
                 <i class="fi fi-sr-route"></i>
             </div>
 
-                
+            <span class="vt-service-why-count">06</span>
         </div>
 
         <h3>Customized Solutions</h3>
@@ -544,8 +544,6 @@
 
 </section>
 
-
-
 <!-- =========================================
      FEATURES + WHY IT MATTERS SECTION
 ========================================= -->
@@ -586,7 +584,12 @@
               </div>
           </div>
 
-         
+          <!-- CTA -->
+          <a href="contact.aspx" class="vt-premium-panel-btn">
+              Get in Touch
+              <span>→</span>
+          </a>
+
       </div>
 
   </div>

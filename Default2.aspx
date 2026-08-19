@@ -2099,7 +2099,7 @@
 </section>
 
 <!-- DESKTOP ABOUT SECTION -->
-<section class="vt-home-about-desktop">
+<%--<section class="vt-home-about-desktop">
     <div class="container">
         <div class="row">
 
@@ -2131,11 +2131,11 @@
 
         </div>
     </div>
-</section>
+</section>--%>
 
 
 <!-- MOBILE ABOUT SECTION -->
-<section class="vt-home-about-mobile">
+<%--<section class="vt-home-about-mobile">
     <div class="container">
 
       <div class="row">
@@ -2170,7 +2170,7 @@
 
 </div>
     </div>
-</section>
+</section>--%>
  
     <!-- ================= OUR SERVICES (from Default.aspx) ================= -->
     <section class="team-one" style="padding-top: 70px; padding-bottom: 0px">
