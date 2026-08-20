@@ -728,10 +728,10 @@
             <h2 class="section-title__title title-animation">Our Services</h2>
         </div>
 
-        <div class="row">
+        <div class="listing-carousel-style owl-carousel owl-theme">
 
             <!-- Service 1 -->
-            <div class="col-xl-4 col-lg-6 col-md-6" data-aos="fade-right" data-aos-duration="1000">
+            <div class="item">
                 <div class="team-one__single">
                     <div class="team-one__img-box">
                         <div class="team-one__img">
@@ -747,7 +747,7 @@
             </div>
 
             <!-- Service 2 -->
-            <div class="col-xl-4 col-lg-6 col-md-6" data-aos="fade-down" data-aos-duration="2000">
+            <div class="item">
                 <div class="team-one__single">
                     <div class="team-one__img-box">
                         <div class="team-one__img">
@@ -763,7 +763,7 @@
             </div>
 
             <!-- Service 3 -->
-            <div class="col-xl-4 col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="3000">
+            <div class="item">
                 <div class="team-one__single">
                     <div class="team-one__img-box">
                         <div class="team-one__img">
@@ -773,6 +773,38 @@
                     <div class="team-one__content">
                         <h4 class="team-one__title">
                             <a href="#">Outstation Cabs</a>
+                        </h4>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Service 4 -->
+            <div class="item">
+                <div class="team-one__single">
+                    <div class="team-one__img-box">
+                        <div class="team-one__img">
+                            <img src="assets/images/gallery/event-transportation.jpg" alt="Event Transportation">
+                        </div>
+                    </div>
+                    <div class="team-one__content">
+                        <h4 class="team-one__title">
+                            <a href="event-transportation.aspx">Event Transportation</a>
+                        </h4>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Service 5 -->
+            <div class="item">
+                <div class="team-one__single">
+                    <div class="team-one__img-box">
+                        <div class="team-one__img">
+                            <img src="assets/images/gallery/car-lease.jpg" alt="Long Term Car Lease">
+                        </div>
+                    </div>
+                    <div class="team-one__content">
+                        <h4 class="team-one__title">
+                            <a href="long-term-car-lease.aspx">Long Term Car Lease</a>
                         </h4>
                     </div>
                 </div>
@@ -790,6 +822,112 @@
 
     </div>
 </section>
+
+    <!-- =========================================
+     OUR CLIENTS SECTION
+========================================= -->
+    <section class="team-one team-page overflow-hidden team-carousel-page" style="padding: 70px 0px; background: #f5f5f5">
+        <div class="team-one__inner">
+            <div class="container">
+
+                <div class="section-title text-center sec-title-animation animation-style1">
+                    <h2 class="section-title__title title-animation">Our Clients</h2>
+                </div>
+                <div class="team-carousel-style owl-carousel owl-theme carousel-dot-style">
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img-box">
+                                <div class="team-one__img">
+                                    <img src="assets/images/logos/logo1.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img-box">
+                                <div class="team-one__img">
+                                    <img src="assets/images/logos/logo2.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img-box">
+                                <div class="team-one__img">
+                                    <img src="assets/images/logos/logo3.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img-box">
+                                <div class="team-one__img">
+                                    <img src="assets/images/logos/logo4.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img-box">
+                                <div class="team-one__img">
+                                    <img src="assets/images/logos/logo5.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img-box">
+                                <div class="team-one__img">
+                                    <img src="assets/images/logos/logo6.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img-box">
+                                <div class="team-one__img">
+                                    <img src="assets/images/logos/logo9.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img-box">
+                                <div class="team-one__img">
+                                    <img src="assets/images/logos/logo10.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img-box">
+                                <div class="team-one__img">
+                                    <img src="assets/images/logos/logo11.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img-box">
+                                <div class="team-one__img">
+                                    <img src="assets/images/logos/logo12.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <!-- =========================================
      OUR TESTIMONIALS SECTION

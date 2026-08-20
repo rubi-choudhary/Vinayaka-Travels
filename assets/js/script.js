@@ -360,8 +360,8 @@
     $(".listing-carousel-style").owlCarousel({
       loop: true,
       margin: 24,
-      nav: false,
-      dots: true,
+      nav: true,
+      dots: false,
       smartSpeed: 500,
       autoplay: true,
       autoplayTimeout: 7000,

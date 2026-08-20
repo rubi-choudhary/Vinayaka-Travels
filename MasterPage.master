@@ -284,8 +284,8 @@
     <link href="assets/js/flatpickr/ie.css" rel="stylesheet" />
 
     <!-- template styles -->
-    <link rel="stylesheet" href="assets/css/style.css?v=2.7" />
-    <link rel="stylesheet" href="assets/css/responsive.css?v=2" />
+    <link rel="stylesheet" href="assets/css/style.css?v=2.9" />
+    <link rel="stylesheet" href="assets/css/responsive.css?v=5" />
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-2BWTFK52G0"></script>
